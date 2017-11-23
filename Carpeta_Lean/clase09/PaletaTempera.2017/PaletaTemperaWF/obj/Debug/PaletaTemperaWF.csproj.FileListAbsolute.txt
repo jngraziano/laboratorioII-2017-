@@ -1,0 +1,6 @@
+D:\VisualStudio\PaletaTempera.2017\PaletaTemperaWF\bin\Debug\PaletaTemperaWF.exe.config
+C:\Users\alumno\Desktop\PaletaTempera.2017\PaletaTemperaWF\bin\Debug\PaletaTemperaWF.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase09\PaletaTempera.2017\PaletaTemperaWF\bin\Debug\PaletaTemperaWF.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase09\PaletaTempera.2017\PaletaTemperaWF\obj\Debug\PaletaTemperaWF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase09\PaletaTempera.2017\PaletaTemperaWF\obj\Debug\PaletaTemperaWF.Properties.Resources.resources
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase09\PaletaTempera.2017\PaletaTemperaWF\obj\Debug\PaletaTemperaWF.csproj.GenerateResource.Cache

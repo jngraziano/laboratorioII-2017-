@@ -1,0 +1,6 @@
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.exe.config
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.exe
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\bin\Debug\Clase9.pdb
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.exe
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.pdb
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 9\Clase9\Clase9\obj\Debug\Clase9.csprojResolveAssemblyReference.cache

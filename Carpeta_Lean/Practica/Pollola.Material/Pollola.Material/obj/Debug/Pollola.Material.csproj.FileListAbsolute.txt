@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.Material\Pollola.Material\bin\Debug\Pollola.Material.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.Material\Pollola.Material\bin\Debug\Pollola.Material.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.Material\Pollola.Material\bin\Debug\Pollola.Material.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.Material\Pollola.Material\obj\Debug\Pollola.Material.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.Material\Pollola.Material\obj\Debug\Pollola.Material.pdb

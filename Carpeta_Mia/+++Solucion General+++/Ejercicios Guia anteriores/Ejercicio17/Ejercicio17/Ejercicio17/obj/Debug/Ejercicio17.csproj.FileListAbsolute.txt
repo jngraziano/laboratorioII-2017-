@@ -1,0 +1,21 @@
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+E:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio17\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb

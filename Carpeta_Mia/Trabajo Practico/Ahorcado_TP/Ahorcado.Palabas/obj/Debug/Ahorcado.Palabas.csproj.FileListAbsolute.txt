@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\Ahorcado_TP\Ahorcado.Palabas\obj\Debug\Ahorcado.Palabas.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\Ahorcado_TP\Ahorcado.Palabas\bin\Debug\Ahorcado.Palabas.dll
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\Ahorcado_TP\Ahorcado.Palabas\bin\Debug\Ahorcado.Palabas.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\Ahorcado_TP\Ahorcado.Palabas\obj\Debug\Ahorcado.Palabas.dll
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\Ahorcado_TP\Ahorcado.Palabas\obj\Debug\Ahorcado.Palabas.pdb

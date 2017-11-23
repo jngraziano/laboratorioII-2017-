@@ -1,0 +1,5 @@
+D:\Vogel.Damian\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+D:\Vogel.Damian\Ejercicio05\bin\Debug\Ejercicio05.exe
+D:\Vogel.Damian\Ejercicio05\bin\Debug\Ejercicio05.pdb
+D:\Vogel.Damian\Ejercicio05\obj\Debug\Ejercicio05.exe
+D:\Vogel.Damian\Ejercicio05\obj\Debug\Ejercicio05.pdb

@@ -1,0 +1,48 @@
+ETipoTinta{Comun, China, ConBrillito}
+
+Tinta{
+
+(-)_color:ConsoleColor
+(-)_tipo:ETipoTinta --->ETipoTinta{Comun, China, ConBrillito}
+
+
+//constructor 0, 1, 2 parametros
+//por defecto->Black; Comun
+
+//instancia
+(-)Mostrar():string//instancia
+//clase
+(+)Mostrar(Tinta):string//clase
+
+
+//sobrecargas
+
+== (Tinta, Tinta) //color y tipo
+explicit (Tinta) : string 
+
+
+}
+
+
+Pluma{
+
+(-)_marca:string
+(-)_tinta:Tinta
+(-)_cantidad:int
+
+//constructor 0, 1, 2 y 3 parametros.
+//por defecto->"Sin marca"; null; 1;
+
+//instancia
+(-)Mostrar():string
+
+
+==(Pluma, Tinta):bool
+
++(Pluma, Tinta):Pluma
+-(Pluma, Tinta):Pluma
+
+implicit (Pluma):string
+
+}
+

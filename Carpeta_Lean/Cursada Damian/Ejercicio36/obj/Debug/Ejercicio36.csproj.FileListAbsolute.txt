@@ -1,0 +1,12 @@
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.pdb
+D:\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.exe.config
+D:\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.exe
+D:\Vogel.Damian\Ejercicio36\bin\Debug\Ejercicio36.pdb
+D:\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.exe
+D:\Vogel.Damian\Ejercicio36\obj\Debug\Ejercicio36.pdb

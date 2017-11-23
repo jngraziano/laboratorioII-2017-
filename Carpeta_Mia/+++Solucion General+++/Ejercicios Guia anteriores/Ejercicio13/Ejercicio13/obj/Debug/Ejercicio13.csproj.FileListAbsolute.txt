@@ -1,0 +1,4 @@
+G:\Programacion II 2016\Ejercicios Guia\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+G:\Programacion II 2016\Ejercicios Guia\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+D:\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.exe
+D:\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.pdb
+D:\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.exe
+D:\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\bin\Debug\Ejercicio13.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache

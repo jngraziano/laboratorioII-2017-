@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_3
+{
+    class ProdImpuesto
+    {
+        public float cantidad;
+
+        public ProdImpuesto(float cantidad)
+        {
+            this.cantidad = cantidad;
+        }
+
+        public static explicit operator ProdImpuesto(float cantidad)
+        {
+            return new ProdImpuesto(cantidad);
+        }
+    }
+}

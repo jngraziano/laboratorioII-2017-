@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\bin\Debug\FinalLaboCUR_Ejercicio_DESER_EXCEPC.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\bin\Debug\FinalLaboCUR_Ejercicio_DESER_EXCEPC.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\bin\Debug\FinalLaboCUR_Ejercicio_DESER_EXCEPC.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\obj\Debug\FinalLaboCUR_Ejercicio_DESER_EXCEPC.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\obj\Debug\FinalLaboCUR_Ejercicio_DESER_EXCEPC.pdb

@@ -1,0 +1,103 @@
+Explicit
+Implicit
+
+Sobrecarga de operadores:
+
+-Unarios:
+++ 
+-- 
+Implicit,explicit
+true,false
+( de a pares)
+
+Binarios:
+Aritmeticos * - + /
+Comparacion == != <>  >= <=
+(de a pares)
+
+//main
+
+Empleado emp1;
+
+emp1="Perez"
+
+string InfoEmpleado;
+
+infoEmpleado=(string)emp1;
+  String         String
+
+
+
+
+Enumerados
+
+namespace Ejemplo
+{
+enum DiasDeLaSemana
+{
+Lunes;
+Martes;
+Miercoles;
+Jueves;
+Viernes;
+Sabado;
+Domingo;
+}
+
+Arrays
+
+int[] numeros; 1 dimension
+int[,] matriz; 2 dimensiones
+
+numeros=new int [4];// numeros es una referencia. El array es new int [4]
+
+for(int indice=0; indice < 4; indice++)
+{
+numeros[indice]= indice;
+}
+
+foreach(int valor in numeros)	//in palabra reservada. int valor, el tipo de dato tiene qe coinidir con la 		{
+valor=2;//da error!!
+}	     			//declaracion de int[] numeros.
+
+
+
+
+class Fabrica
+{
+ Atributos :Fecha apertura (Datetime)
+	   direccion (string)
+           Empleados (array de empleados)
+
+Esta clase va a tener un constructor de instancia que recibira 3 parametros:
+Fecha,
+Direccion,
+Cantidad de empleados de la fabrica
+
+No se puede redimensionar un array, si esta declrado para 6 elementos, y despues  cambio a 50, los primeros 6 se pierden.
+
+AgregarEmpleado (Empleado)
+ true--> si se agrego
+ false --> no se agrego
+
+
+*Metodo de instancia privado ObtenerLugar
+
+int ObtenerLugar()
+
+
+privado int ObtnerLugar(Empleado)
+Retorna el indice en el cual se encuentra el empleado pasado por parametro.
+
+
+
+Metodo de clase Publico
+
+ObtenerInfoFabrica
+
+Fecha Apertura:
+direccion:
+Empleados:"ap,nombre,sueldo bruto..."
+
+
+

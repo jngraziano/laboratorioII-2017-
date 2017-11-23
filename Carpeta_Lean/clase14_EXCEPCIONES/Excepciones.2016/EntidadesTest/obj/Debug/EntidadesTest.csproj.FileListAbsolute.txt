@@ -1,0 +1,24 @@
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase14\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojResolveAssemblyReference.cache

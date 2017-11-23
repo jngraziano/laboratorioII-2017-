@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\RecuperatorioProgramacion\bin\Debug\RecuperatorioProgramacion.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\RecuperatorioProgramacion\bin\Debug\RecuperatorioProgramacion.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\RecuperatorioProgramacion\bin\Debug\RecuperatorioProgramacion.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\RecuperatorioProgramacion\obj\Debug\RecuperatorioProgramacion.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\RecuperatorioProgramacion\obj\Debug\RecuperatorioProgramacion.pdb

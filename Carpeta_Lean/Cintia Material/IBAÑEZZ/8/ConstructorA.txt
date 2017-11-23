@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_8
+{
+    class ConstructorA
+    {
+
+        public ConstructorA()
+        {
+            try
+            {
+                throw new ExceptionMi("Constructor A");
+            }
+            catch(ExceptionMi ex)
+            {
+
+                ConstructorB obj = new ConstructorB(); 
+            }
+        }
+    }
+}

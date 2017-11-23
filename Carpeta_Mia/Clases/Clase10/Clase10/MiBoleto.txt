@@ -1,0 +1,42 @@
+
+Empresa: NIRO SA
+
+Numero: 345
+
+Valor: 15600
+
+
+Empresa: NIRO SA
+
+Numero: 654
+
+Valor: 15600
+
+
+Empresa: NIRO SA
+
+Numero: 654
+
+Valor: 15600
+
+
+Empresa: NIRO SA
+
+Numero: 654
+
+Valor: 15600
+
+
+Empresa: NIRO SA
+
+Numero: 654
+
+Valor: 15600
+
+
+Empresa: NIRO SA
+
+Numero: 654
+
+Valor: 15600
+

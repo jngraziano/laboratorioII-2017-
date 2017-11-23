@@ -1,0 +1,11 @@
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\bin\Debug\Formulario.exe.config
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\bin\Debug\Formulario.exe
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\bin\Debug\Formulario.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\bin\Debug\Libreria.dll
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\bin\Debug\Libreria.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.Form1.resources
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.exe
+D:\CSharp\2016\OrdenarListasGenericas.2016\Formulario\obj\Debug\Formulario.pdb

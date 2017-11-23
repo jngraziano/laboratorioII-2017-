@@ -1,0 +1,5 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio14\bin\Debug\Ejercicio14.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio14\bin\Debug\Ejercicio14.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio14\obj\Debug\Ejercicio14.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio14\obj\Debug\Ejercicio14.pdb

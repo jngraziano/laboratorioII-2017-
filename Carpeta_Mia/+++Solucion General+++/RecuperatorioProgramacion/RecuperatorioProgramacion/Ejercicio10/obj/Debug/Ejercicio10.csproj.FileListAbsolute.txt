@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio10\bin\Debug\Ejercicio10.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio10\obj\Debug\Ejercicio10.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio10\obj\Debug\Ejercicio10.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\Manejo de Cadenas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\Manejo de Cadenas\bin\Release\Manejo de Cadenas.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\Manejo de Cadenas\bin\Release\Manejo de Cadenas.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\Manejo de Cadenas\obj\Release\Manejo de Cadenas.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\Manejo de Cadenas\obj\Release\Manejo de Cadenas.pdb

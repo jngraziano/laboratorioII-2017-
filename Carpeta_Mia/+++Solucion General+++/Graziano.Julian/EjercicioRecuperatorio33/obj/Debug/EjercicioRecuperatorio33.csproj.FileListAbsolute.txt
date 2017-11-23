@@ -1,0 +1,3 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\EjercicioRecuperatorio33\bin\Debug\EjercicioRecuperatorio33.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\EjercicioRecuperatorio33\obj\Debug\EjercicioRecuperatorio33.csprojResolveAssemblyReference.cache
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\EjercicioRecuperatorio33\bin\Debug\EjercicioRecuperatorio33.exe.config

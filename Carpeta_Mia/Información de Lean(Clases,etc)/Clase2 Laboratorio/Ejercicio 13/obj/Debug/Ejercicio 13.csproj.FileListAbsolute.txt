@@ -1,0 +1,6 @@
+D:\LNP\Pollola.Leandro\Ejercicio 13\bin\Debug\Ejercicio 13.exe.config
+D:\LNP\Pollola.Leandro\Ejercicio 13\obj\Debug\Ejercicio 13.csprojResolveAssemblyReference.cache
+D:\LNP\Pollola.Leandro\Ejercicio 13\bin\Debug\Ejercicio 13.exe
+D:\LNP\Pollola.Leandro\Ejercicio 13\bin\Debug\Ejercicio 13.pdb
+D:\LNP\Pollola.Leandro\Ejercicio 13\obj\Debug\Ejercicio 13.exe
+D:\LNP\Pollola.Leandro\Ejercicio 13\obj\Debug\Ejercicio 13.pdb

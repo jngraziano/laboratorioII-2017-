@@ -1,0 +1,12 @@
+D:\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.exe.config
+D:\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.exe
+D:\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.pdb
+D:\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.exe
+D:\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.pdb
+D:\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\bin\Debug\EjercicioClase05.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase05\obj\Debug\EjercicioClase05.csprojResolveAssemblyReference.cache

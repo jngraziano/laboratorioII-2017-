@@ -1,0 +1,11 @@
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.exe.config
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.exe.config
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.exe
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.pdb
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\obj\Debug\Ejercicio36.exe
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\obj\Debug\Ejercicio36.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\obj\Debug\Ejercicio36.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\obj\Debug\Ejercicio36.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio36\bin\Debug\Ejercicio36.pdb

@@ -1,0 +1,7 @@
+D:\Vogel.Damian\Lampara\Lampara\bin\Debug\Lampara.exe.config
+D:\Vogel.Damian\Lampara\Lampara\bin\Debug\Lampara.exe
+D:\Vogel.Damian\Lampara\Lampara\bin\Debug\Lampara.pdb
+D:\Vogel.Damian\Lampara\Lampara\obj\Debug\Lampara.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Lampara\Lampara\obj\Debug\Lampara.exe
+D:\Vogel.Damian\Lampara\Lampara\obj\Debug\Lampara.pdb
+D:\Vogel.Damian\Lampara\Lampara\bin\Debug\Entidades.Ferreteria.2016.dll

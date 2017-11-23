@@ -1,0 +1,38 @@
+Crear una clase Deposito
+*Atributos-->Array de pintura
+(priavdos)   direccion(string)
+
+
+Constructor de instancia 
+
+*Deposito (int cantMaximaPintura)
+*Deposito (string direccion, int candMaxpint) 
+
+Mestodo estatico  llamado obtener InfoDeposito, retorna un string
+
+*Cantidad de elementos de tipo pintura del deposito
+* Sumatoria de todas las cantidades 
+
+
+MEtodo de Instancia(publico)
+
+ObtenerPinturasMayoresA(int cantidad)
+Retorna un string
+
+Metodo de instancia(publico)
+Agregar (pintura)  //Retorna un bool
+
+Metodo de instancia (publico)
+Eliminar(pintura) //Retorna un bool
+
+
+Metodos de instacia(privados)
+
+*ObtenerLugarDisponible()
+Retorna un int
+
+*ElelementoYaExiste(Pintura)
+Retorna un bool
+
+
+Dentro de la clase deposito no realizar i/o por consola.

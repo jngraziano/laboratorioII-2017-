@@ -1,0 +1,11 @@
+C:\Users\profesor\Desktop\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.exe
+C:\Users\profesor\Desktop\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\bin\Debug\EjemplosVarios.2013.exe
+C:\Users\profesor\Desktop\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\bin\Debug\EjemplosVarios.2013.pdb
+C:\Users\profesor\Desktop\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2016.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Programacion 2\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Programacion 2\Clase06\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.pdb
+E:\Programacion II 2016\Clases\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.exe
+E:\Programacion II 2016\Clases\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.pdb
+E:\Facultad\Programacion II (C#) 2016\Clases\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.exe
+E:\Facultad\Programacion II (C#) 2016\Clases\Propiedades_Indexadores.2016\EjemplosVarios.2016\obj\Debug\EjemplosVarios.2013.pdb

@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio51\bin\Debug\Ejercicio51.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio51\bin\Debug\Ejercicio51.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio51\obj\Debug\Ejercicio51.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio51\obj\Debug\Ejercicio51.pdb

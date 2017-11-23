@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <numero>555</numero>
+  <ListadoDePersonas>
+    <Persona>
+      <nombre>alguien</nombre>
+      <apellido>sinapellido</apellido>
+    </Persona>
+    <Persona>
+      <nombre>juan</nombre>
+      <apellido>dario</apellido>
+    </Persona>
+    <Persona>
+      <nombre>juan</nombre>
+      <apellido>dario</apellido>
+    </Persona>
+    <Persona>
+      <nombre>alguien</nombre>
+      <apellido>sinapellido</apellido>
+    </Persona>
+  </ListadoDePersonas>
+</Aula>

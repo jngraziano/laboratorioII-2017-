@@ -1,0 +1,17 @@
+clase Sello
+
+(+) mensaje : string
+
+	(+) color : ConsoleColor
+
+(+) Imprimir() : string
+
+(+) Borrar() : void
+
+
+	(+) ImprimirEnColor() : void
+
+		(-) ArmarFormatoMensaje : string
+
+			(-) TryParse(string, out string) : bool
+

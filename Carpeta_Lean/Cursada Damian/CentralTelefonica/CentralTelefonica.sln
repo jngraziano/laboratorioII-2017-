@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{BFF9B368-2F2F-4295-96EA-D4437F3B6445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio54 (Centralita - Serializacion - Excepciones)", "Ejercicio54 (Centralita - Serializacion - Excepciones)\Ejercicio54 (Centralita - Serializacion - Excepciones).csproj", "{454F2BD6-19D6-481F-A20D-E0CEE108D1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF9B368-2F2F-4295-96EA-D4437F3B6445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF9B368-2F2F-4295-96EA-D4437F3B6445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF9B368-2F2F-4295-96EA-D4437F3B6445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF9B368-2F2F-4295-96EA-D4437F3B6445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454F2BD6-19D6-481F-A20D-E0CEE108D1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454F2BD6-19D6-481F-A20D-E0CEE108D1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454F2BD6-19D6-481F-A20D-E0CEE108D1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454F2BD6-19D6-481F-A20D-E0CEE108D1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

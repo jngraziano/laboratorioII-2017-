@@ -1,0 +1,26 @@
+
+
+
+Clase--> Caracteristicas-->Atributos/prop  (de clase /estaticos (static)
+     -->  Operaciones  --->Metodos     (de clase /estaticos (static)
+    
+
+Objeto--> caracteristicas -->Atributos/Propiedades (de instancia)
+      ---> Operaciones --> Metodos (de instancia)
+
+
+namespace: Es una agrupacion logica de elementos
+Puedo agrupar:clases, estructuras, delegados,enumeradores,interfaces,otros espacios de nombre
+
+new es un operador que no se puede sobrecargar
+
+Ej;
+
+unaTele=new Televisor //new es un operador//televisor es un metodo constructor
+
+Stck segment, es el segemnto de pila de memoria ram
+
+Heap segment, es el segmento de "monton" de memoria ram.
+
+Referencia puede contener una direccion de memoria o NULL, NULL no representa ninguna direccion de memoria.
+  

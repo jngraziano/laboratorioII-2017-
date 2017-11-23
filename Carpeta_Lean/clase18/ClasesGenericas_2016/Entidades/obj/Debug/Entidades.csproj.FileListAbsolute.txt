@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\ClasesGenericas_2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

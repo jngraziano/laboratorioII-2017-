@@ -1,0 +1,6 @@
+C:\PROGRAMACION 2\Ale.Javier\prueba\bin\Debug\prueba.exe.config
+C:\PROGRAMACION 2\Ale.Javier\prueba\bin\Debug\prueba.exe
+C:\PROGRAMACION 2\Ale.Javier\prueba\bin\Debug\prueba.pdb
+C:\PROGRAMACION 2\Ale.Javier\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache
+C:\PROGRAMACION 2\Ale.Javier\prueba\obj\Debug\prueba.exe
+C:\PROGRAMACION 2\Ale.Javier\prueba\obj\Debug\prueba.pdb

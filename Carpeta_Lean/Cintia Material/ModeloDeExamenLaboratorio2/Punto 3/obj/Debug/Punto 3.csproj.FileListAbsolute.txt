@@ -1,0 +1,5 @@
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 3\bin\Debug\Punto 3.exe.config
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 3\bin\Debug\Punto 3.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 3\bin\Debug\Punto 3.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 3\obj\Debug\Punto 3.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 3\obj\Debug\Punto 3.pdb

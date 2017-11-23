@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Numero>777</Numero>
+  <ListadoDePersonas>
+    <Persona xsi:type="Profesor">
+      <Dni>1</Dni>
+      <nombre>profesor</nombre>
+      <apellido>profesor</apellido>
+      <Titulo>profesor</Titulo>
+    </Persona>
+    <Persona xsi:type="Alumno">
+      <Dni>2</Dni>
+      <nombre>alumno</nombre>
+      <apellido>alumno</apellido>
+      <Legajo>123</Legajo>
+    </Persona>
+    <Persona>
+      <Dni>3</Dni>
+      <nombre>persona</nombre>
+      <apellido>persona</apellido>
+    </Persona>
+  </ListadoDePersonas>
+</Aula>

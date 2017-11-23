@@ -1,0 +1,11 @@
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06-alumnos.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB01PROFESOR\Downloads\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+C:\Users\profesor.LAB01PROFESOR\Downloads\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06-alumnos.csprojResolveAssemblyReference.cache
+D:\LNP\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+D:\LNP\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe
+D:\LNP\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.pdb
+D:\LNP\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.exe
+D:\LNP\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Final\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Final\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Final\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.pdb

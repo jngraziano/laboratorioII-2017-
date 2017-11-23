@@ -1,0 +1,16 @@
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06-alumnos.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB01PROFESOR\Downloads\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+C:\Users\profesor.LAB01PROFESOR\Downloads\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06-alumnos.csprojResolveAssemblyReference.cache
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06-alumnos.csprojResolveAssemblyReference.cache
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Excepciones.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Excepciones.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.exe
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.pdb
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.exe
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.pdb

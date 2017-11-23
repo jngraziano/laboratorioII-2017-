@@ -1,0 +1,8 @@
+
+
+4-Agregar Clase Verificadora
+* metodo estatico VerificarNumero(Numero, ETipoNumero) : bool
+
+
+Realizar los cambios necesarios para que solo se puedan 'sumar' a la clase ColectoraDeNumeros
+números pares.

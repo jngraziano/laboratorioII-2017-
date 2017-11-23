@@ -1,0 +1,6 @@
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\obj\Debug\clase02.csprojResolveAssemblyReference.cache
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\bin\Debug\pajich clase 2.exe.config
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\bin\Debug\pajich clase 2.exe
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\bin\Debug\pajich clase 2.pdb
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\obj\Debug\pajich clase 2.exe
+F:\Programacion II 2016\Clases\pajich clase 2\pajich clase 2\obj\Debug\pajich clase 2.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio\2017.Sobrecarga\2017.Sobrecarga.Operadores\bin\Debug\2017.Sobrecarga.Operadores.dll
+D:\VisualStudio\2017.Sobrecarga\2017.Sobrecarga.Operadores\bin\Debug\2017.Sobrecarga.Operadores.pdb
+D:\VisualStudio\2017.Sobrecarga\2017.Sobrecarga.Operadores\obj\Debug\2017.Sobrecarga.Operadores.csprojResolveAssemblyReference.cache
+D:\VisualStudio\2017.Sobrecarga\2017.Sobrecarga.Operadores\obj\Debug\2017.Sobrecarga.Operadores.dll
+D:\VisualStudio\2017.Sobrecarga\2017.Sobrecarga.Operadores\obj\Debug\2017.Sobrecarga.Operadores.pdb

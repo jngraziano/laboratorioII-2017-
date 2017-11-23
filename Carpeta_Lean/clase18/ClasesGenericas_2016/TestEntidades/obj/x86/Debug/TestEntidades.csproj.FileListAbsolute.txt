@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\TestEntidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.exe
+c:\users\administrador\documents\visual studio 2010\Projects\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase18\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase18\ClasesGenericas_2016\TestEntidades\obj\x86\Debug\TestEntidades.pdb

@@ -1,0 +1,6 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb

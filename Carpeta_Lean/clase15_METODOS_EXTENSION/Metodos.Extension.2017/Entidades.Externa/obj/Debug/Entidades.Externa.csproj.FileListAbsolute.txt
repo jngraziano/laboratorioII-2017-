@@ -1,0 +1,15 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.pdb
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.pdb
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades.Externa\bin\Debug\Entidades.Externa.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades.Externa\bin\Debug\Entidades.Externa.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades.Externa\obj\Debug\Entidades.Externa.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades.Externa\obj\Debug\Entidades.Externa.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades.Externa\obj\Debug\Entidades.Externa.pdb

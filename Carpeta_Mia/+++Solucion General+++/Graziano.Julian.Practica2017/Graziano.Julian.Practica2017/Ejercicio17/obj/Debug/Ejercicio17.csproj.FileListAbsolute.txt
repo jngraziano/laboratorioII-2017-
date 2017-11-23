@@ -1,0 +1,9 @@
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\obj\Debug\Ejercicio17.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\obj\Debug\Ejercicio17.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio17\obj\Debug\Ejercicio17.pdb

@@ -1,0 +1,2 @@
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio55\bin\Debug\Ejercicio55.exe.config
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian.Practica2017\Graziano.Julian.Practica2017\Ejercicio55\obj\Debug\Ejercicio55.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graziano.Julian", "Graziano.Julian\Graziano.Julian.csproj", "{D9B61C73-78F2-4FA7-B3AA-2F65F8DD901B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "Fruta\Class Library.csproj", "{B4F7EA43-8595-4824-AA96-FBAB61A4F025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B61C73-78F2-4FA7-B3AA-2F65F8DD901B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B61C73-78F2-4FA7-B3AA-2F65F8DD901B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B61C73-78F2-4FA7-B3AA-2F65F8DD901B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B61C73-78F2-4FA7-B3AA-2F65F8DD901B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F7EA43-8595-4824-AA96-FBAB61A4F025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F7EA43-8595-4824-AA96-FBAB61A4F025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F7EA43-8595-4824-AA96-FBAB61A4F025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F7EA43-8595-4824-AA96-FBAB61A4F025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

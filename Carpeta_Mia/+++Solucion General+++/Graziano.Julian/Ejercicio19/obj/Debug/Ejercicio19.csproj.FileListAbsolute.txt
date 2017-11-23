@@ -1,0 +1,10 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\obj\Debug\Ejercicio19.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\obj\Debug\Ejercicio19.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\bin\Debug\Ejercicio19.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\obj\Debug\Ejercicio19.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio19\obj\Debug\Ejercicio19.pdb

@@ -1,0 +1,3 @@
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Graziano.Julian\bin\Debug\Graziano.Julian.exe.config
+C:\Users\alumno.LAB5PC03\Desktop\Segundo Parcial\Graziano.Julian\Graziano.Julian\bin\Debug\Graziano.Julian.exe.config
+C:\Users\alumno.LAB5PC03\Desktop\Segundo Parcial\Graziano.Julian\Graziano.Julian\obj\Debug\Graziano.Julian.csprojResolveAssemblyReference.cache

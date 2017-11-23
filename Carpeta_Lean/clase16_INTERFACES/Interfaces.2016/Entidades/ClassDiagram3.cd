@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Auto">
+    <Position X="3.5" Y="3.25" Width="2.75" />
+    <InheritanceLine Type="Entidades.Vehiculo" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="2.247" />
+        <Point X="5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Avion">
+    <Position X="10.75" Y="3.25" Width="2.75" />
+    <InheritanceLine Type="Entidades.Vehiculo" ManuallyRouted="true">
+      <Path>
+        <Point X="5" Y="2.247" />
+        <Point X="5" Y="2.75" />
+        <Point X="12.125" Y="2.75" />
+        <Point X="12.125" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Avion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Carreta">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <InheritanceLine Type="Entidades.Vehiculo" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="2.247" />
+        <Point X="5" Y="2.765" />
+        <Point X="1.417" Y="2.765" />
+        <Point X="1.417" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carreta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Comercial">
+    <Position X="13" Y="6" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comercial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Deportivo">
+    <Position X="5.25" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Deportivo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Familiar">
+    <Position X="0.5" Y="6" Width="4" />
+    <InheritanceLine Type="Entidades.Auto" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.875" Y="5.127" />
+        <Point X="4.875" Y="5.374" />
+        <Point X="2.5" Y="5.374" />
+        <Point X="2.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Familiar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Gestion">
+    <Position X="9.25" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Privado">
+    <Position X="9" Y="6" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Privado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Vehiculo">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IAFIP">
+    <Position X="6.75" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAFIP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Entidades.IARBA">
+    <Position X="17.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IARBA.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

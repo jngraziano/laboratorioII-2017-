@@ -1,0 +1,6 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\bin\Debug\Ejercicio6.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\bin\Debug\Ejercicio6.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\obj\Debug\Ejercicio6.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\obj\Debug\Ejercicio6.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio6\obj\Debug\Ejercicio6.pdb

@@ -1,0 +1,11 @@
+c:\users\profesor\documents\visual studio 2010\Projects\MetodosExtendidos.2015\MetodosExtendidos.2015\bin\Debug\MetodosExtendidos.2015.exe
+c:\users\profesor\documents\visual studio 2010\Projects\MetodosExtendidos.2015\MetodosExtendidos.2015\bin\Debug\MetodosExtendidos.2015.pdb
+c:\users\profesor\documents\visual studio 2010\Projects\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\profesor\documents\visual studio 2010\Projects\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.exe
+c:\users\profesor\documents\visual studio 2010\Projects\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.pdb
+X:\MAXI\2015 - SEGUNDO CUATRI\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.pdb
+C:\Users\profesor\Desktop\MetodosExtendidos.2015\MetodosExtendidos.2015\bin\Debug\MetodosExtendidos.2015.exe
+C:\Users\profesor\Desktop\MetodosExtendidos.2015\MetodosExtendidos.2015\bin\Debug\MetodosExtendidos.2015.pdb
+C:\Users\profesor\Desktop\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.exe
+C:\Users\profesor\Desktop\MetodosExtendidos.2015\MetodosExtendidos.2015\obj\x86\Debug\MetodosExtendidos.2015.pdb

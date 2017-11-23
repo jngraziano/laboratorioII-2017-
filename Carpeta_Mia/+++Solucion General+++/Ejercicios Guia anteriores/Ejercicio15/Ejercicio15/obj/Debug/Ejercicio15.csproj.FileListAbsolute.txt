@@ -1,0 +1,6 @@
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csprojResolveAssemblyReference.cache
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb

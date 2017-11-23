@@ -1,0 +1,134 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Empleado
+
+    {
+        private decimal sueldoBruto;
+        private string nombre;
+        private string apellido;
+
+        public Empleado(decimal sueldo, string ap, string nom): this(nom,ap)
+        {
+            sueldoBruto=sueldo;
+        }
+
+        private Empleado(string nombre, string ap)
+        {
+            this.nombre = nombre;
+            apellido = ap;
+        }
+
+        //This, se usa si o si solo cuando el nombre del atributo del objeto es igual al del metodo, 
+        //es para referirme al objeto actual.
+
+        //MEtodo constructor de clase o estatico es estatico y no recibe parametros.Se ejecuta a lo sumo una sola vez
+        //cuando cree la primera instancia de la clase. 
+        // Al crear un objeto primero se va a ejecutar el metodo constructor de clase y luego el de instancia
+        // en el metodo estatico no se puede acceder a atributos de instancia. SOLO puedo acceder o modificar atributos 
+    // de clase.
+        // ^Por ej sueldoBruto no lo podria modificar, sòlo podria si sueldo bruto fuera declarado asi: private static sueldoBruto
+
+
+        public static void Mostrar(Empleado unEmpleado) //El parametro no es un objeto,sino una referencia.
+        {
+            Console.WriteLine(sueldoBruto);
+            Console.WriteLine(apellido);
+            Console.WriteLine(nombre);
+            //Esto esta mal porque estoy queriendo acceder a atributos de instancia.
+        }
+
+        public static void Mostrar(Empleado unEmpleado) //El parametro no es un objeto,sino una referencia.
+        {
+            Console.WriteLine(unEmpleado.sueldoBruto);
+            Console.WriteLine(unEmpleado.apellido);
+            Console.WriteLine(unEmpleado.nombre);
+          // Ahora esta bien.
+        }
+
+        //Sobrecarga: Son las distintas maneras que tengo de utilizar algo que ya existe. 
+        // pueden ser metodos u operadores
+        //int num1=1, num2=2;
+        // int resultado=num1+num2;
+
+        //string A="Hola"
+        //string B="Mundo"
+        //string cadena=A+B
+
+        //Sobrecarga de Metodos: De instancia y estàticos, y mètodo constructor de instancia.
+        //METODO CONSTRUCTOR DE CLASE NO SE PUEDE SOBRECARGAR
+
+        //Metodo cosntructor tiene que tener el mismo nombre que la clase.
+        // Para que sea sobrecarga de un mètodo, el mètodo tiene que tener siempre el mismo nombre
+        // para que sea una sobrecarga no tiene que tener la misma cantidad de parametros
+        //Tiene que haber al menos un parametro distinto (tipo de dato) para que sea una sobrecarga valida, o que el orden de los parametros sean distintos
+        //Hay que tener en cuenta:Nombre, cantidad de parametros,tipo de dato y orden de los parametros
+
+
+        // Para que la sobrecarga sea vàlida no importa si es private,public o static,sino que hay que fijarse
+        //del nombre en adelante, es decia el nombre y parametros.
+
+        // La palabra reservada THIS, se usa en un metodo de instancia cuando no tengo forma de diferenciar el atributo del parametro del metodo
+
+        // Sobrecarga de operadores. Unarios y Binarios
+        //Binarios: Aritemeticos y de comparacion
+
+        /*main
+        //Empleado e1= new Empleado (1000,"PEPE","PEPITO");
+         Empleado e12= new Empleado (1000,"PEPE","PEPITO");
+
+         *  if(e1==e2)
+         * {
+         *  Console.WriteLine("Los empleados son iguales");  //NO SON IGUALES
+         * }
+         * 
+         * 
+         * 
+         * [modificador] static Tipo Operator___(Tipo par1,Tipo par2)
+         * {
+         * }
+         * 
+         * 
+         * public static bool operator == (empleado empleado1, Empleado empleado2)
+         * {
+         * return (empleado1.nombre==empleado2.nombre && empleado1.apellido==empleado2.apellido);  (AHORRO  CODIGO con el ; )
+         * }
+         *
+         * 
+         * 
+         * public static bool operator != (empleado empleado1, Empleado empleado2)
+         * {
+         * return (empleado1.nombre!=empleado2.nombre || empleado1.apellido!=empleado2.apellido); 
+         * }
+         * 
+         * o return!(A==B);  // ESTA MAL poner (A!=B)  se forma un bucle infinito ( esto es porque estoy llamando al operador del
+         * mismo metodo)
+         * 
+         * Operadores Unarios: Si sobrecargo un operador, se sobrecarga el otro. Ej si sobrecargo True, se sobrecarga False
+         * Operadores Binarios= Se sobrecargan de a 2, si sobre cargo uno , debo sobrecargar el otro. Ej == y !=  o > y <
+         * 
+         * 
+         * public static bool opeator == (Empleado e1, decimal valor)
+         * 
+         *return (e1.sueldoBruto==valor);  (esto esta bien porque estoy llamando a las variables y no al operador)
+         *
+         * pubic static bool operator != (empleado A, decimal v)
+         * 
+         * return !(A==v);
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+    }
+}

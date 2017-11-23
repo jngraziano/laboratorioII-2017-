@@ -1,0 +1,6 @@
+D:\Vogel.Damian\EjercicioClase41\obj\Debug\EjercicioClase41.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\EjercicioClase41\bin\Debug\EjercicioClase41.exe.config
+D:\Vogel.Damian\EjercicioClase41\bin\Debug\EjercicioClase41.exe
+D:\Vogel.Damian\EjercicioClase41\bin\Debug\EjercicioClase41.pdb
+D:\Vogel.Damian\EjercicioClase41\obj\Debug\EjercicioClase41.exe
+D:\Vogel.Damian\EjercicioClase41\obj\Debug\EjercicioClase41.pdb

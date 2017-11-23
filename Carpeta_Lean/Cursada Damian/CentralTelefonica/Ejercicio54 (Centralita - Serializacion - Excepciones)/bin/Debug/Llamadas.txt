@@ -1,0 +1,65 @@
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42995243
+Nro de Destino: 42994324
+Duracion: 30
+
+Costo de la llamada Local: 79,5
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42995243
+Nro de Destino: 42994324
+Duracion: 30
+
+Costo de la llamada Local: 79,5
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42995243
+Nro de Destino: 42994324
+Duracion: 30
+
+Costo de la llamada Local: 79,5
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42995243
+Nro de Destino: 42994324
+Duracion: 30
+
+Costo de la llamada Local: 79,5
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42990611
+Nro de Destino: 42993232
+Duracion: 45
+
+Costo de la llamada Local: 89,55
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42995243
+Nro de Destino: 42994324
+Duracion: 30
+
+Costo de la llamada Local: 79,5
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 42990611
+Nro de Destino: 42993232
+Duracion: 45
+
+Costo de la llamada Local: 89,55
+
+lunes, 20 de junio de 2016
+---------------------------
+Nro de Origen: 43120541
+Nro de Destino: 43125062
+Duracion: 21
+
+Costo llamada Provincial: 20,79
+Franja Horaria: Franja_1
+

@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio2\obj\Debug\Ejercicio2.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio2\obj\Debug\Ejercicio2.pdb

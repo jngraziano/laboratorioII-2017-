@@ -1,0 +1,6 @@
+G:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

@@ -1,0 +1,12 @@
+E:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.exe.config
+E:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.exe
+E:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.pdb
+E:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.exe
+E:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.pdb
+H:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.exe.config
+H:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.exe
+H:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.pdb
+H:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.exe
+H:\PROGRAMACION II\Ale.Javier\Clase05\bin\Debug\Clase05.pdb
+H:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION II\Ale.Javier\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache

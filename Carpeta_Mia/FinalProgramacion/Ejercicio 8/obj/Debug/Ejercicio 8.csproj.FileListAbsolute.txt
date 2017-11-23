@@ -1,0 +1,6 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\obj\Debug\Ejercicio 8.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

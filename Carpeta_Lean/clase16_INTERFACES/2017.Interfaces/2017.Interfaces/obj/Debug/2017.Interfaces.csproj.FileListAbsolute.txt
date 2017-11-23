@@ -1,0 +1,12 @@
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.exe.config
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfases\bin\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfaces.csprojResolveAssemblyReference.cache
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfases\obj\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe.config
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.exe
+D:\2017.Interfaces\2017.Interfaces\bin\Debug\2017.Interfases.pdb
+D:\2017.Interfaces\2017.Interfaces\obj\Debug\2017.Interfaces.csprojResolveAssemblyReference.cache

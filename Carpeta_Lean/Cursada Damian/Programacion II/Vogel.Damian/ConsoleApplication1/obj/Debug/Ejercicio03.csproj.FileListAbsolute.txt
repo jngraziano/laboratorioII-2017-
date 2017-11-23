@@ -1,0 +1,20 @@
+D:\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Vogel.Damian\ConsoleApplication1\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+Y:\Vogel Damian\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+Y:\Vogel Damian\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

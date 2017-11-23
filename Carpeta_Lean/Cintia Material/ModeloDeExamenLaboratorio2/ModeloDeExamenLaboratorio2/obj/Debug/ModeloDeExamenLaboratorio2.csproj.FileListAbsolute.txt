@@ -1,0 +1,9 @@
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\bin\Debug\ModeloDeExamenLaboratorio2.exe.config
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\bin\Debug\ModeloDeExamenLaboratorio2.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\bin\Debug\ModeloDeExamenLaboratorio2.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\obj\Debug\ModeloDeExamenLaboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\obj\Debug\ModeloDeExamenLaboratorio2.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\obj\Debug\ModeloDeExamenLaboratorio2.pdb
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\bin\Debug\ModeloDeExamenLaboratorio2.exe.config
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\obj\Debug\ModeloDeExamenLaboratorio2.exe
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\ModeloDeExamenLaboratorio2\obj\Debug\ModeloDeExamenLaboratorio2.pdb

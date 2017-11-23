@@ -1,0 +1,10 @@
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\Consola.exe.config
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\Consola.exe
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\Consola.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\Libreria.dll
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\OtraLibreria.dll
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\Libreria.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\bin\Debug\OtraLibreria.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\obj\Debug\Consola.exe
+D:\CSharp\2016\OrdenarListasGenericas.2016\Consola\obj\Debug\Consola.pdb

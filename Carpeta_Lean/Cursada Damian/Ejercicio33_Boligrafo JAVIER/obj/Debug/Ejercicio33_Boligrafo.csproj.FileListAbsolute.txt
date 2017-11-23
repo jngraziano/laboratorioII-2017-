@@ -1,0 +1,14 @@
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.exe.config
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.pdb
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\obj\Debug\Ejercicio33_Boligrafo.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\obj\Debug\Ejercicio33_Boligrafo.pdb
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.exe.config
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.exe
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\bin\Debug\Ejercicio33_Boligrafo.pdb
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\obj\Debug\Ejercicio33_Boligrafo.exe
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\obj\Debug\Ejercicio33_Boligrafo.pdb
+E:\PROGRAMACION 2\Ale.Javier\Ejercicio33_Boligrafo\obj\Debug\Ejercicio33_Boligrafo.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio33_Boligrafo JAVIER\bin\Debug\Ejercicio33_Boligrafo.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio33_Boligrafo JAVIER\obj\Debug\Ejercicio33_Boligrafo.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio33_Boligrafo JAVIER\obj\Debug\Ejercicio33_Boligrafo.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 04-2010\Sobrecargas-2010\Sobrecarga-Operadores\bin\Debug\Sobrecarga-Operadores.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 04-2010\Sobrecargas-2010\Sobrecarga-Operadores\bin\Debug\Sobrecarga-Operadores.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 04-2010\Sobrecargas-2010\Sobrecarga-Operadores\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 04-2010\Sobrecargas-2010\Sobrecarga-Operadores\obj\Debug\Sobrecarga-Operadores.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 04-2010\Sobrecargas-2010\Sobrecarga-Operadores\obj\Debug\Sobrecarga-Operadores.pdb

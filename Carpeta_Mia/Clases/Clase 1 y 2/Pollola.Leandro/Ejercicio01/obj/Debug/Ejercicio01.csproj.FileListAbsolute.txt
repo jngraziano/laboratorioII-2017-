@@ -1,0 +1,2 @@
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 1 y 2\Pollola.Leandro\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase 1 y 2\Pollola.Leandro\Ejercicio01\obj\Debug\Ejercicio01.pdb

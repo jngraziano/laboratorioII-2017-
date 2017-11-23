@@ -1,0 +1,6 @@
+﻿enum Vehiculos
+{
+    Auto,
+    Moto
+
+}

@@ -1,0 +1,4 @@
+F:\Facultad\Programacion II (C#) 2016\Recuperatorio Primer Parcial\Graziano.Julian.2D\Paraisos\bin\Debug\Paraisos.dll
+F:\Facultad\Programacion II (C#) 2016\Recuperatorio Primer Parcial\Graziano.Julian.2D\Paraisos\bin\Debug\Paraisos.pdb
+F:\Facultad\Programacion II (C#) 2016\Recuperatorio Primer Parcial\Graziano.Julian.2D\Paraisos\obj\Debug\Paraisos.dll
+F:\Facultad\Programacion II (C#) 2016\Recuperatorio Primer Parcial\Graziano.Julian.2D\Paraisos\obj\Debug\Paraisos.pdb

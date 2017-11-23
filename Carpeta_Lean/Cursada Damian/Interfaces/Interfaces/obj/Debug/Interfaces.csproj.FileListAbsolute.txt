@@ -1,0 +1,6 @@
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,8 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

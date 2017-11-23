@@ -1,0 +1,30 @@
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.exe
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.pdb
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.csprojResolveAssemblyReference.cache
+F:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+F:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.exe
+F:\Programacion II 2016\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\Primer Paricial\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\Facultad\Programacion II (C#) 2016\Primer Paricial\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\Facultad\Programacion II (C#) 2016\Primer Paricial\Practica Sabado Lean\Solucion\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\Solucion General\JulianGraziano\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\Facultad\Programacion II (C#) 2016\Solucion General\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\Facultad\Programacion II (C#) 2016\Solucion General\JulianGraziano\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\Solucion General\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\Facultad\Programacion II (C#) 2016\Solucion General\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\Facultad\Programacion II (C#) 2016\Solucion General\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\bin\Debug\Ejercicio37.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37\obj\Debug\Ejercicio37.pdb

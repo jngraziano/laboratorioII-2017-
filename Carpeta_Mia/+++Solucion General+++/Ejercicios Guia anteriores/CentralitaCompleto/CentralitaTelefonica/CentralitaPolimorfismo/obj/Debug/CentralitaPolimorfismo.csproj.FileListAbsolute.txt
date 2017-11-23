@@ -1,0 +1,5 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\CentralitaCompleto\CentralitaTelefonica\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb

@@ -1,0 +1,6 @@
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\bin\Debug\Ejercicio SOBRECARGAS.exe.config
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\bin\Debug\Ejercicio SOBRECARGAS.exe
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\bin\Debug\Ejercicio SOBRECARGAS.pdb
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\obj\Debug\Ejercicio SOBRECARGAS.exe
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\obj\Debug\Ejercicio SOBRECARGAS.pdb
+D:\LNP\Pollola.Leandro\Ejercicio SOBRECARGAS\obj\Debug\Ejercicio SOBRECARGAS.csprojResolveAssemblyReference.cache

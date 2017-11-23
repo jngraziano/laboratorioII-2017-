@@ -1,0 +1,11 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.pdb
+E:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+E:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.exe
+E:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.pdb
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.exe
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio10\obj\Debug\Ejercicio10.pdb

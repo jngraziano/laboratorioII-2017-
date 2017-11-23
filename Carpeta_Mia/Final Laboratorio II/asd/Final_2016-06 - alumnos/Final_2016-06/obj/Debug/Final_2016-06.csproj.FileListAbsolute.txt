@@ -1,0 +1,14 @@
+D:\Federico\VB .Net\Visual C#\Otros\Final_2016-06\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\obj\Debug\Final_2016-06.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Final_2016-06.exe
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Final_2016-06.pdb
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\obj\Debug\Final_2016-06.exe
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06\Final_2016-06\obj\Debug\Final_2016-06.pdb
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06 - alumnos\Final_2016-06\bin\Debug\Final_2016-06.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.exe
+D:\Federico\VB .Net\Visual C#\utn\Final_2016-06 - alumnos\Final_2016-06\obj\Debug\Final_2016-06.pdb

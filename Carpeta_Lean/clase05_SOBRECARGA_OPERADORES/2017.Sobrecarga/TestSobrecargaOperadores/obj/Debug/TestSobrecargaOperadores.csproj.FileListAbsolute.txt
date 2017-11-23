@@ -1,0 +1,8 @@
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\bin\Debug\TestSobrecargaOperadores.exe.config
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\bin\Debug\TestSobrecargaOperadores.exe
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\bin\Debug\TestSobrecargaOperadores.pdb
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\bin\Debug\2017.Sobrecarga.Operadores.dll
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\bin\Debug\2017.Sobrecarga.Operadores.pdb
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\obj\Debug\TestSobrecargaOperadores.csprojResolveAssemblyReference.cache
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\obj\Debug\TestSobrecargaOperadores.exe
+D:\VisualStudio\2017.Sobrecarga\TestSobrecargaOperadores\obj\Debug\TestSobrecargaOperadores.pdb

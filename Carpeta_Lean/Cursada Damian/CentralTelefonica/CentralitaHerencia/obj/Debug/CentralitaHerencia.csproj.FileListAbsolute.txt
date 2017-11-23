@@ -1,0 +1,12 @@
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Vogel.Damian\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache

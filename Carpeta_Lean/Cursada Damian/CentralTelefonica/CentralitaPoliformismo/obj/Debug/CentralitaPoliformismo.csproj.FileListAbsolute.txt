@@ -1,0 +1,7 @@
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\bin\Debug\CentralitaPoliformismo.exe.config
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\bin\Debug\CentralitaPoliformismo.exe.config
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\obj\Debug\CentralitaPoliformismo.exe
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\obj\Debug\CentralitaPoliformismo.pdb
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\bin\Debug\CentralitaPoliformismo.exe
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\bin\Debug\CentralitaPoliformismo.pdb
+D:\Vogel.Damian\CentralTelefonica\CentralitaPoliformismo\obj\Debug\CentralitaPoliformismo.csprojResolveAssemblyReference.cache

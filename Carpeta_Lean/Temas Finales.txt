@@ -1,0 +1,257 @@
+C#
+
+TIPO DATOS
+	CTS (COMMON TYPE SYSTEM)
+		Todos heredan directa o indrectamente de System.Object
+		Tipos
+			Valor 		ALMACENADAS EN STACK
+				Byte/Char	Int16/Int32/Decimal/Boolean		Single/Double/Enum
+			Referencia 	ALMACENADAS EN HEAP
+	Conversiones 
+		Implicitas
+			Automatica entre tipo de datos
+		Explicitas
+			var1tipo1 = (tipo1) var2
+	Fecha y hora del sistema	Datetime.Now;
+	
+	POO
+		Objeto y Mensaje elementos fundamentales
+		Pilares
+			HERENCIA [modificadores] class NombreClase : NombreClaseBase
+				Excepto constructores
+				Llamado a constructor en base :base(parametro)
+				Por defecto siempre va a base()
+				Modificador SEALED para que no se pueda heredar
+			POLIMORFISMO 
+				Implementacion de metodos declarados en la clase base
+				BASE - Definición - Virtual
+					[modificadores] virtual tipoRetorno NombreMétodo([Args])
+					{ // Implementación del método }
+				DERI - Implementa - Override
+					[modificadores] override tipoRetorno NombreMétodo([Args])
+					{ // Sobrescritura del método }
+			ENCAPSULAMIENTO 
+			ABSTRACCION  [modificadores] abstract class NombreClase
+				Es un tipo especial de CLASE
+				Metodos y propiedades sin implementación
+				La clase derivada esta OBLIGADA A IMPLEMENTAR LOS METODOS
+				Un miembro abstracto solo se puede declarar en una clase que sea abstracta
+				No se permite instanciarlas
+				METODOS/PROPIEDADES
+		Clases
+			Modificadores
+				Abstract 					No se puede instanciar
+				Protected/Public/Private 	Visibilidad
+				Sealed						No se puede Heredar
+				override					Reemplaza implementacion de virtual (sobrecarga)
+				virtual						Define metodos con implementacion y permite sobrecargas
+				Static						Metodos estaticos			
+	CONSTRUCTORES
+		Tipos
+			Instancia 	(Inicializan Objetos,Atributos NO ESTATICOS)
+			Estáticos	(Inicializan Clases ,Atributos ESTATICOS)
+				Solo inicializa atributos estáticos
+				No lleva modificadores de acceso
+				STATIC
+				No recibe parametros
+				static Clase() {
+								_var1 = 3;
+								_var2 = 5;
+								}
+		Defecto
+			Publico
+			Mismo Nombre que la clase
+			No tiene retorno
+			No recibe argumento
+			Inicializa atributos a valor por defecto
+	SOBRECARGA
+		Metodos	
+			Se cambia la firma del metodo
+				Numero/Tipo/Orden
+				NO AFECTA Tipo de retorno/Nombre de parametro
+		Constructores
+			Instanciar objetos de forma distinta
+		Operadores
+			public static bool operator nombreOperador(Tipo a, Tipo b)
+			Unarios 
+				+, -, !, ~, ++, - -, true, false
+			Binarios
+				+, -, *, /, %, &, |, ^, <<, >>
+			Comparación (siempre tiene que recargarse el valor positivo y negativo)
+				==, !=, <, >, <=, >=
+			Conversion (Hacer compatibles tipos que no lo eran)
+				Implicitos
+					public static implicit operator nombreTipo(Tipo a)
+				Explicitos
+					public static explicit operator nombreTipo(Tipo a)
+	ARRAYS
+		Unidimensional 	 - [acceso] Tipo [] nombre_Array = new Tipo[CANT_ELEMENTOS];
+		Multidimensional -  int[,] matriz = new int[filas, columnas];
+		Deriva de System.Array
+			Metodos
+				CopyTo
+				GetLength
+				GetLowerBound/GetUpperBound
+				Initialize
+			Propiedades
+				Length
+				Rank
+	COLECCIONES
+		Definidas en System.Collections o System.Collections.Generic
+		NO GENERICAS
+			PILAS	(Stack)
+				Metodos
+					Clear		Elimina elementos
+					Peek		Retorna 1 elemento	
+					Pop			Retorna 1 elemento y desapila
+					Push		Inserta 1 elemento
+					ToArray		Copia la pila a un Array Object[]
+				Propiedades
+					Count
+			COLAS	(Queue)
+				Metodos
+					Clear		Elimina elementos
+					Peek		Retorna 1 elemento
+					Dequeue		Retorna 1 elemento y remueve
+					Enqueue		Inserta 1 elemento
+					ToArray		Copia la cola aun Array Object[]
+				Propiedades
+					Count
+			LISTAS	(ArrayList)
+				Metodos
+					Clear		Remueve todos los elementos
+					Sort		Ordena el contenido
+					Reverse		Invierte el Orden
+					Remove		Remueve 1 objeto
+					Insert		Inserta 1 elemento en un indice
+					Add			Inserta 1 objeto al final
+				Propiedades
+					Capacity	Obtiene o determina el número de elementos
+					Count		Devuelve el numero de elementos
+			HASH TABLES	(Clave/Valor)
+				Metodos
+					Add
+					Clear
+					Remove
+				Propiedades
+					Count
+				
+		GENERICAS
+			System.Collections.Generic
+			Diccionarios <Tclave, Tvalor>
+			List <T>
+			Stack<T>
+			Queue<T>
+		
+	GESTION ERRORES
+		Interceptar errores en tiempo de ejecución
+		
+	INTERFACES	[modificadores] interface INombreInterface
+				  {
+					//Miembros de la interface
+				  }
+				  (derivada)
+				[modificadores] class NombreClase : INombreInterface
+		Asegurarte la implementacion de metodos y propiedades
+		No permite atributos
+		Metodos publicos	(NO SE ESPECIFICA)
+		Metodos abstractos	(NO SE ESPECIFICA)
+		NO SE USA VIRTUAL
+	SERIALIZACION
+		TEXTO (System.IO)
+			StreamWriter    StreamWriter (string path)
+								Write 		(string value)
+								WriteLine 	(string value)
+			StreamReader	StreamWriter (string path, bool append)
+														Sobreescribe datos o no
+								Read()		CaracterXCaracter
+								ReadLine()	Linea de Caracteres
+								ReadToEnd()	Stream entero
+			Close() 		Cierra el StreamWriter/StreamReader
+			Excepciones
+				ArgumentException			Cadena 0 / Espacios en blanco / Caracteres no válidos
+				ArgumentNullException		Ruta de acceso Null
+				FileNotFoundException 		Ruta no existe
+				DirectoryNotFoundException	El directorio no existe
+				IOException					Archivo en uso / Error de E-S
+				PathTooLongException		Ruta supera longitud maxima
+				NotSupportedException		Formato no valido 
+				SecurityException			No tiene permisos para el folder
+		XMLl
+			Propiedades y atributos publicos
+			Metodos no se serializan
+			Tiene que tener constructor por defecto
+			Objetos NECESARIOS
+				XmlSerializer	XmlSerializer (System.Type type)
+					Serialize		Serialize (System.IO.Stream stream, Object o)
+					Deserialize		Deserialize (System.IO.Stream stream)
+				XmlTextWriter	XmlTextWriter (string filename,System.Text.Encoding encoding)
+				XmlTextReader	XmlTextReader (string url)
+			EJEMPLOS
+				   try
+					{
+					 XmlSerializer serializador = new XmlSerializer(typeof(Aula));
+					 using (StreamWriter escritor = new StreamWriter(this.Numero + "aula.xml"))
+						{
+						serializador.Serialize(escritor, this);
+						}
+					}
+					catch (Exception ex)
+					{
+						Console.WriteLine(ex.Message);
+						return false;
+					}
+					return true;
+		BINARIA
+			Todos los atributos y propiedades, sean publicas o privadas
+			Clases NECESARIAS
+				BinaryFormatter	
+					System.Runtime.Serialization.Formatters.Binary
+					Serializa y deserialia BINARIO
+					Atributos Publicos y privados
+					Debe tener costructor por defecto
+				FileStream
+					Genera objeto para LEER,ESCRIBIR,ABRIR Y CERRAR archivos
+			CLASES Y METODOS
+				BinnaryFormatter()
+					Serialize(System.IO.FileStream seralizationStream, Object graph)	
+					Deserialize(System.IO.FileStream serializationStream)
+				FileStream (string path, System.IO.FileMode mode)
+					Read (byte[] array, int offset, int count)
+					Seek (long offset, System.IO.SeekOrigin origin)
+					Write (byte[] array, int offset, int count)
+		
+FINALES
+NEINER
+	FINAL1
+		
+		Metodo de extension (Sobre clases Int32 e Int64)
+		Pilas, colas
+		Listas, Diccionarios
+			Genericas
+		Propiedades
+			Getters y Setters
+		Manejo de Excepciones
+			Propias y estandar
+		Metodo de instancia, metodo estatico, pasar a MAIN
+		Burbujeo
+		Sobrecarga de operadores
+			Unarios / Binarios / Comparación / Conversion
+		Constructores 
+			Instancia 
+			Estaticos
+			Firma, sobrecarga 
+		Herencia
+		Interfacess
+			Guardar en XML
+	FINAL 2
+		Inicializacion customizada
+			ProdImpuesto ProUno = (ProdImpuesto)”coca cola”;
+		Propiedad (solo lectura o escritura)
+			Solo GETTER o solo SETTER
+		Recorrer un arrays
+			For / Foreach
+	
+NO
+	Eventos 
+	

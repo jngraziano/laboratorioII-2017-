@@ -1,0 +1,5 @@
+﻿enum eTipoComestible
+{
+    Solido,
+    Liquido
+}

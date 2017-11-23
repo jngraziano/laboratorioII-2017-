@@ -1,0 +1,6 @@
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.exe.config
+E:\Programacion 2\Clase23.05\obj\Debug\Clase23.05.csprojResolveAssemblyReference.cache
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.exe
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.pdb
+E:\Programacion 2\Clase23.05\obj\Debug\Clase23.05.exe
+E:\Programacion 2\Clase23.05\obj\Debug\Clase23.05.pdb

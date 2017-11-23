@@ -1,0 +1,19 @@
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.exe.config
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.pdb
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.exe.config
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.exe
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\Punto 1.pdb
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\mscorlib.dll
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\normidna.nlp
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\normnfc.nlp
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\normnfd.nlp
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\normnfkc.nlp
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\bin\Debug\normnfkd.nlp
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.csprojResolveAssemblyReference.cache
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.exe
+C:\Users\Cynthia\Desktop\final 14dic\ModeloDeExamenLaboratorio2\Punto 1\obj\Debug\Punto 1.pdb

@@ -1,0 +1,7 @@
+D:\LNP\Pollola.Leandro\Clase4 SobrecargaOperadores\bin\Debug\Clase4 SobrecargaOperadores.exe.config
+D:\LNP\Pollola.Leandro\Clase4 SobrecargaOperadores\bin\Debug\Clase4 SobrecargaOperadores.exe
+D:\LNP\Pollola.Leandro\Clase4 SobrecargaOperadores\bin\Debug\Clase4 SobrecargaOperadores.pdb
+D:\LNP\Pollola.Leandro\Clase4 SobrecargaOperadores\obj\Debug\Clase4 SobrecargaOperadores.exe
+D:\LNP\Pollola.Leandro\Clase4 SobrecargaOperadores\obj\Debug\Clase4 SobrecargaOperadores.pdb
+F:\Programacion 2\Clase4 SobrecargaOperadores\bin\Debug\Clase4 SobrecargaOperadores.exe.config
+F:\Programacion 2\Clase4 SobrecargaOperadores\obj\Debug\Clase4 SobrecargaOperadores.exe

@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2010\Projects\Interfaces.2015\Interfaces.2015\bin\Debug\Interfaces.2015.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Interfaces.2015\Interfaces.2015\bin\Debug\Interfaces.2015.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Interfaces.2015\Interfaces.2015\obj\x86\Debug\Interfaces.2015.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Interfaces.2015\Interfaces.2015\obj\x86\Debug\Interfaces.2015.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase16\Interfaces.2015\Interfaces.2015\obj\x86\Debug\Interfaces.2015.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase16\Interfaces.2015\Interfaces.2015\obj\x86\Debug\Interfaces.2015.pdb

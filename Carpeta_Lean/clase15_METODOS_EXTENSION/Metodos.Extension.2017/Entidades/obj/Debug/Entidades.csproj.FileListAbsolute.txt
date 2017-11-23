@@ -1,0 +1,14 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades\obj\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades\bin\Debug\Entidades.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades\obj\Debug\Entidades.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase15\Metodos.Extension.2017\Entidades\obj\Debug\Entidades.pdb

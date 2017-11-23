@@ -1,0 +1,5 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 09-2010\ClasesAbstractasPolimorfismoInterfaces-2010\Interfaces-2010\bin\Release\Interfaces.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 09-2010\ClasesAbstractasPolimorfismoInterfaces-2010\Interfaces-2010\bin\Release\Interfaces.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 09-2010\ClasesAbstractasPolimorfismoInterfaces-2010\Interfaces-2010\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 09-2010\ClasesAbstractasPolimorfismoInterfaces-2010\Interfaces-2010\obj\Release\Interfaces.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 09-2010\ClasesAbstractasPolimorfismoInterfaces-2010\Interfaces-2010\obj\Release\Interfaces.pdb

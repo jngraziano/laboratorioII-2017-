@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_4
+{
+    class ClaseEjercicio5:ClaseAbstracta,IMiinter
+    {
+        public Producto  MiMetodo (int num){
+            return new Producto(num);
+        }
+
+        public Producto propiedad
+        {
+            get
+            {
+                return new Producto();
+            }
+        }
+
+        public override void Mostrar()
+        {
+            Console.Write(propiedad.num.ToString());
+        }
+
+    }
+}

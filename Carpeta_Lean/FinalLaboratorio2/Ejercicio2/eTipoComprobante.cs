@@ -1,0 +1,5 @@
+﻿enum eTipoComprobante 
+{
+    Compra,
+    Venta
+}

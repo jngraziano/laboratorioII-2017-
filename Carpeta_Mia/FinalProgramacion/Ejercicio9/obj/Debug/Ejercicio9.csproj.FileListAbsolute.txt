@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio9\obj\Debug\Ejercicio9.pdb

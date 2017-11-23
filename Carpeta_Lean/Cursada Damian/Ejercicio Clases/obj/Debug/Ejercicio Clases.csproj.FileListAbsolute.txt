@@ -1,0 +1,15 @@
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.csprojResolveAssemblyReference.cache
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.pdb
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.exe.config
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.exe.config
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.exe
+D:\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.exe.config
+D:\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.exe
+D:\Vogel.Damian\Ejercicio Clases\bin\Debug\Ejercicio Clases.pdb
+D:\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.exe
+D:\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.pdb
+D:\Vogel.Damian\Ejercicio Clases\obj\Debug\Ejercicio Clases.csprojResolveAssemblyReference.cache

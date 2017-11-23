@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Fruta\bin\Debug\Fruta.dll
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Fruta\bin\Debug\Fruta.pdb
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Fruta\obj\Debug\Fruta.dll
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Fruta\obj\Debug\Fruta.pdb
+F:\Facultad\Programacion II (C#) 2016\Segundo Parcial\Graziano.Julian\Fruta\obj\Debug\Class Library.csprojResolveAssemblyReference.cache

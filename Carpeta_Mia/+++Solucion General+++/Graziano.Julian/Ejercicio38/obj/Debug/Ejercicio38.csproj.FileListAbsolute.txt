@@ -1,0 +1,12 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\bin\Debug\Ejercicio38.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio38\obj\Debug\Ejercicio38.pdb

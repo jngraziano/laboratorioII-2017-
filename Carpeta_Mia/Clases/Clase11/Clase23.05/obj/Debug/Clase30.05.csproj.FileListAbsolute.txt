@@ -1,0 +1,10 @@
+E:\Programacion 2\Clase23.05\obj\Debug\Clase23.05.exe
+E:\Programacion 2\Clase23.05\obj\Debug\Clase23.05.pdb
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.exe.config
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.exe
+E:\Programacion 2\Clase23.05\bin\Debug\Clase23.05.pdb
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase11\Clase23.05\bin\Debug\Clase23.05.exe.config
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase11\Clase23.05\obj\Debug\Clase23.05.exe
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase11\Clase23.05\obj\Debug\Clase23.05.pdb
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase11\Clase23.05\bin\Debug\Clase23.05.exe
+F:\Facultad\Programacion II (C#) 2016\Clases\Clase11\Clase23.05\bin\Debug\Clase23.05.pdb

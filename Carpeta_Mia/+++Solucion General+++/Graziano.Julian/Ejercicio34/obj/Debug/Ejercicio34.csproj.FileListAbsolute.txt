@@ -1,0 +1,10 @@
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.exe.config
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.exe
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.pdb
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\obj\Debug\Ejercicio34.exe
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\obj\Debug\Ejercicio34.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\bin\Debug\Ejercicio34.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\obj\Debug\Ejercicio34.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio34\obj\Debug\Ejercicio34.pdb

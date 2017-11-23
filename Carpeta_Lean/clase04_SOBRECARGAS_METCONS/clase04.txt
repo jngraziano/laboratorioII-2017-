@@ -1,0 +1,22 @@
+clase Cosa
+*-*-*-*-*-*-
+
+(+) entero:int
+(+) cadena:string
+(+) fecha:DateTime
+*-*-*-*-*-*-*-*-*-*-*
+
+(+) Mostrar():void
+
+*-*-*-*-*-*-*-*-*-
+
+(+) EstablecerValor(int):void
+(+) EstablecerValor(string):void
+(+) EstablecerValor(DateTime):void
+
+*-*-*-*-*-*-*-*-*-*
+
+(+) Cosa(int, string)
+(+) Cosa(string])
+(+) Cosa()
+

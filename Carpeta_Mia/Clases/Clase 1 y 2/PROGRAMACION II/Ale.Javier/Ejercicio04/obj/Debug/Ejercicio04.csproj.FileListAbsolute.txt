@@ -1,0 +1,10 @@
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.pdb
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio04\obj\Debug\Ejercicio04.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio04\obj\Debug\Ejercicio04.pdb
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio04\obj\Debug\Ejercicio04.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio04\obj\Debug\Ejercicio04.pdb
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio04\bin\Debug\Ejercicio04.pdb

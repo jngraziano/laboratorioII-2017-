@@ -1,0 +1,12 @@
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.exe
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.pdb
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.exe
+D:\CSharp\2016\###Segundo Cuatri\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\bin\Debug\Objetos.Constructores.2016.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\Objetos.Constructores.2016\Objetos.Constructores.2016\obj\Debug\Objetos.Constructores.2016.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\bin\Debug\EjercicioModeloParcial Boligrafo.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\bin\Debug\EjercicioModeloParcial Boligrafo.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\bin\Debug\EjercicioModeloParcial Boligrafo.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\obj\Debug\EjercicioModeloParcial Boligrafo.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\obj\Debug\EjercicioModeloParcial Boligrafo.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioModeloParcial Boligrafo\obj\Debug\EjercicioModeloParcial Boligrafo.pdb
+D:\Vogel.Damian\EjercicioModeloParcial Boligrafo\bin\Debug\EjercicioModeloParcial Boligrafo.exe.config
+D:\Vogel.Damian\EjercicioModeloParcial Boligrafo\obj\Debug\EjercicioModeloParcial Boligrafo.exe
+D:\Vogel.Damian\EjercicioModeloParcial Boligrafo\obj\Debug\EjercicioModeloParcial Boligrafo.pdb

@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final1C_Ejercicio3\bin\Debug\Final1C_Ejercicio3.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final1C_Ejercicio3\bin\Debug\Final1C_Ejercicio3.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final1C_Ejercicio3\bin\Debug\Final1C_Ejercicio3.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final1C_Ejercicio3\obj\Debug\Final1C_Ejercicio3.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final1C_Ejercicio3\obj\Debug\Final1C_Ejercicio3.pdb

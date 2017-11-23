@@ -1,0 +1,5 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\bin\Debug\Entidades.Externa.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa\obj\Debug\Entidades.Externa.pdb

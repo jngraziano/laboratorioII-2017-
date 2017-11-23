@@ -1,0 +1,26 @@
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.pdb
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio01\obj\Debug\Ejercicio01.pdb

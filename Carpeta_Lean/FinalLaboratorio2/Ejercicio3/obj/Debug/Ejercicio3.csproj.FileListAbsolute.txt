@@ -1,0 +1,8 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio3\obj\Debug\Ejercicio3.pdb

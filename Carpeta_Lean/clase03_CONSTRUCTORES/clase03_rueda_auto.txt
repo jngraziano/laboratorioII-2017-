@@ -1,0 +1,84 @@
+
+-------------------------------------------------------------------------------------
+Objetivo: comprender el funcionamiento de un constructor por defecto, this, relacion de composición.
+
+-------------------------------------------------------------------------------------
+A. inicialización del objeto
+
+Crear la clase publica Rueda, con un atributo de tipo String llamado marca y el atributo de tipo int tamaño.
+Crear un objeto en el MAIN , inspeccionar los atributos y verificar que el string está en null y el tamaño en 0.
+
+B. Modificación de valores por defecto.
+Crear un constructor por defecto sin código en su implementación.
+Verificar ejecutando paso a paso que ingresa al constructor.
+Modificar el atributo “This. Marca” dentro del constructor por defecto con el texto “Sin Marca”.
+Modificar el atributo “This. Tamanio” dentro del constructor por defecto con el valor 165.
+Verificar ejecutando paso a paso que ingresa al constructor y que modifica los atributos.
+Crear 3 objetos RUEDA y ejecutar pasó a paso verificando el ingreso al constructor por defecto.
+
+C. Relación de composición de clases.
+
+Creamos la clase Auto, que posea un atributo string fabricante y cuatro Ruedas con los siguientes nombres (ruedaDD, 
+ruedaDI, ruedaTD, ruedaTI).
+Crear el constructor por defecto y verificar que cada objeto rueda es inicializado en NULL.
+Inicializar los objetos rueda en el constructor por defecto.
+Verificar que cada objeto no esté en NULL.
+
+
+-------------------------------------------------------------------------------------
+Objetivo: comprender la funcionalidad y la sintaxis de un constructor estático.
+
+-------------------------------------------------------------------------------------
+D. Constructor Estático.
+
+Crear un constructor de clase en AUTO.
+Verificar que:
+No puede tener modificador de visibilidad
+No se puede utilizar el THIS.
+Verificar, poniendo punto de quiebre, que es lo primero que se ejecuta, antes de utilizar cualquier miembro de instancia 
+o de clase.
+Crear un atributo estático llamado contador de objetos.
+En el constructor estático inicializarlo en 0.
+En el constructor de instancia incrementar en uno el contador estático.
+
+
+-------------------------------------------------------------------------------------
+Objetivo: definición, casteo y utilización de enumerados.
+
+-------------------------------------------------------------------------------------
+E. Enumerados e instancias únicas en atributos estáticos.
+
+Crear el enumerado eFabricante (Ford, Chevrolet y honda).
+Verificar en el MAIN como se crear una variable de tipo eFabricante.
+Verificar en el MAIN como se castea una variable de tipo eFabricante.
+Cambiar el tipo de datos del atributo fabricante de la clase auto, de string a eFabricante.
+En el constructor por defecto inicializar el valor del atributo fabricante.
+Hacer que el fabricante se genere Random entre las tres opciones existentes.
+Crear 5 objetos autos y verificar que se carguen los fabricantes de manera Random.
+Crear un atributo estático de tipo Random.
+Iniciarlizar en objeto Random en el constructor estático.
+
+
+-------------------------------------------------------------------------------------
+Objetivo: utilización de atributos públicos y privados.
+
+-------------------------------------------------------------------------------------
+F. Atributos públicos y privados.
+
+En la clase AUTO creamos el atributo privado “kilometrosRecorridos”.
+El atributo fabricante de la clase AUTO debe ser PRIVADO
+Creamos los métodos que me permitan interactuar con el atributo por fuera de la clase:
+public void AgregarKilometros (int kilometros).
+public void VolverACero ().
+public int GetKms ().
+Hacer el método: public void MostrarAuto () que muestre el fabricante del vehículo.
+Hacer la clase CARRERA con 6 atributotos de clase AUTO, crear el método public void MostrarCarrera (), 
+que muestre los datos de los autos de la carrera
+
+
+*Ejercicio para los alumnos #1:*
+
+hacer en la clase CARRERA el método “PorTiempo” que recibe como parámetro “minutos” representado por un entero 
+y que la cantidad de minutos son las iteraciones que vamos a realizar (while o for), y en cada iteración 
+le agregaremos una cantidad de kilómetros Random a cada auto participante de la carrera. Por último el método mostrará 
+por pantalla quien es el ganador con los kilómetros que recorrió.

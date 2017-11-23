@@ -1,0 +1,32 @@
+d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache
+D:\PC Vieja\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\PC Vieja\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\PC Vieja\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+D:\PC Vieja\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+D:\PC Vieja\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache
+D:\Maxi--Octavio\#01-Cuat 2008\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\#01-Cuat 2008\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache
+D:\Maxi--Octavio\#02-Cuat 2008\C#\Programacion\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\#02-Cuat 2008\C#\Programacion\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\#02-Cuat 2008\C#\Programacion\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\#02-Cuat 2008\C#\Programacion\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\#02-Cuat 2008\C#\Programacion\Clase 10-2008\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache
+D:\Octavio -No borrar\C#\UTN.Programacion2.Excepcion-2009\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.exe
+D:\Octavio -No borrar\C#\UTN.Programacion2.Excepcion-2009\UTN.Programacion2.Excepcion\obj\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Octavio -No borrar\C#\UTN.Programacion2.Excepcion-2009\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.exe
+D:\Octavio -No borrar\C#\UTN.Programacion2.Excepcion-2009\UTN.Programacion2.Excepcion\bin\Debug\UTN.Programacion2.Excepcion.pdb
+D:\Octavio -No borrar\C#\UTN.Programacion2.Excepcion-2009\UTN.Programacion2.Excepcion\obj\Debug\ResolveAssemblyReference.cache

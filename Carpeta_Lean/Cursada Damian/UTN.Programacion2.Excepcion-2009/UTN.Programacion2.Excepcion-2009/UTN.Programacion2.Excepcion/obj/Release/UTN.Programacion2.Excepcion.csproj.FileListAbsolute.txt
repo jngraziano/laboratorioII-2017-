@@ -1,0 +1,10 @@
+D:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Release\UTN.Programacion2.Excepcion.exe
+D:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Release\UTN.Programacion2.Excepcion.pdb
+D:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\UTN.Programacion2.Excepcion.exe
+D:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\ResolveAssemblyReference.cache
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Release\UTN.Programacion2.Excepcion.exe
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Release\UTN.Programacion2.Excepcion.pdb
+D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\obj\Release\UTN.Programacion2.Excepcion.pdb

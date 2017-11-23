@@ -1,0 +1,19 @@
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.exe
+D:\CSharp\2016\###Segundo Cuatri\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\bin\Debug\Entidades.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12_POLIMORFISMO\Polimorfismo.2016\TestEntidades\bin\Debug\TestEntidades.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12_POLIMORFISMO\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase12_POLIMORFISMO\Polimorfismo.2016\TestEntidades\obj\Debug\TestEntidades.pdb

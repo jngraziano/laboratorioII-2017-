@@ -1,0 +1,13 @@
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Entidades.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Entidades.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\obj\Debug\Entidades.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\obj\Debug\Entidades.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Excepciones.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Excepciones.pdb
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Entidades.dll
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Entidades.pdb
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Excepciones.dll
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\bin\Debug\Excepciones.pdb
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\obj\Debug\Entidades.dll
+F:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,15 @@
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe.config
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).pdb
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).pdb
+D:\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).pdb
+C:\Users\alumno.LAB5PC03\Desktop\Clases\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\bin\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe.config
+C:\Users\alumno.LAB5PC03\Desktop\Clases\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).exe
+C:\Users\alumno.LAB5PC03\Desktop\Clases\Vogel.Damian\CentralTelefonica\Ejercicio54 (Centralita - Serializacion - Excepciones)\obj\Debug\Ejercicio54 (Centralita - Serializacion - Excepciones).pdb

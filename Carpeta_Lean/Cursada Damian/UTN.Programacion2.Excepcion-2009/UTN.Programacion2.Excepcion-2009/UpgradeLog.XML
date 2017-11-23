@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UTN.Programacion2.Excepcion">
+</Property><Property Name="Solution File" Value="d:\Visual Studio 2005\Projects\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion.sln">
+</Property><Property Name="Date" Value="martes, 19 de febrero de 2008">
+</Property><Property Name="Time" Value="22:12">
+</Property></Properties><Event ErrorLevel="0" Project="UTN.Programacion2.Excepcion" Source="UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UTN.Programacion2.Excepcion" Source="UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UTN.Programacion2.Excepcion.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UTN.Programacion2.Excepcion.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UTN.Programacion2.Excepcion" Source="UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

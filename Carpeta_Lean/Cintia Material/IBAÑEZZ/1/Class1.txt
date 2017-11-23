@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ibanez.Matias.Final.Dic2016
+{
+    class Class1
+    {
+        public static double Metodo (double num_1,double num_2,double num_3)
+        {
+
+            if((num_1 < num_2 && num_1 > num_3)||(num_1>num_2 && num_1 < num_3)){return num_1;}
+            else if ((num_2 < num_1 && num_2 > num_3) || (num_2 > num_1 && num_2 < num_3)){return num_2;}
+            else if ((num_3 < num_1 && num_3 > num_2) || (num_3 > num_1 && num_3 < num_2)) { return num_3; }
+            else { return 0; }
+
+        }
+    }
+}

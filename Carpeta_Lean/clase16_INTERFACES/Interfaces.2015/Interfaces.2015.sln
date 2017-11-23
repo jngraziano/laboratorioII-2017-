@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.2015", "Interfaces.2015\Interfaces.2015.csproj", "{F18A0271-65B0-4F66-A161-81FA9F71D492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.v2.2015", "Interfaces.v2.2015\Interfaces.v2.2015.csproj", "{8492BFFD-0D55-4E70-9C2A-C0244D6EE25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.v3.2015", "Interfaces.v3.2015\Interfaces.v3.2015.csproj", "{6C3AB1F1-6996-44FF-8D22-EA3C0D872CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18A0271-65B0-4F66-A161-81FA9F71D492}.Debug|x86.ActiveCfg = Debug|x86
+		{F18A0271-65B0-4F66-A161-81FA9F71D492}.Debug|x86.Build.0 = Debug|x86
+		{F18A0271-65B0-4F66-A161-81FA9F71D492}.Release|x86.ActiveCfg = Release|x86
+		{F18A0271-65B0-4F66-A161-81FA9F71D492}.Release|x86.Build.0 = Release|x86
+		{8492BFFD-0D55-4E70-9C2A-C0244D6EE25D}.Debug|x86.ActiveCfg = Debug|x86
+		{8492BFFD-0D55-4E70-9C2A-C0244D6EE25D}.Debug|x86.Build.0 = Debug|x86
+		{8492BFFD-0D55-4E70-9C2A-C0244D6EE25D}.Release|x86.ActiveCfg = Release|x86
+		{8492BFFD-0D55-4E70-9C2A-C0244D6EE25D}.Release|x86.Build.0 = Release|x86
+		{6C3AB1F1-6996-44FF-8D22-EA3C0D872CF7}.Debug|x86.ActiveCfg = Debug|x86
+		{6C3AB1F1-6996-44FF-8D22-EA3C0D872CF7}.Debug|x86.Build.0 = Debug|x86
+		{6C3AB1F1-6996-44FF-8D22-EA3C0D872CF7}.Release|x86.ActiveCfg = Release|x86
+		{6C3AB1F1-6996-44FF-8D22-EA3C0D872CF7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

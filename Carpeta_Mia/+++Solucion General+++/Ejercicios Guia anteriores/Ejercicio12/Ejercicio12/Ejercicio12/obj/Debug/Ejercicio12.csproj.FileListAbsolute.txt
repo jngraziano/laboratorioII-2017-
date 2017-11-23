@@ -1,0 +1,15 @@
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio12\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

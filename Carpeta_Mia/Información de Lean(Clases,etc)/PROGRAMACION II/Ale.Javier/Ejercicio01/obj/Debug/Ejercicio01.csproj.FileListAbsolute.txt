@@ -1,0 +1,15 @@
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb
+E:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+E:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+E:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb
+F:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+F:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+F:\Programacion 2\PROGRAMACION II\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb

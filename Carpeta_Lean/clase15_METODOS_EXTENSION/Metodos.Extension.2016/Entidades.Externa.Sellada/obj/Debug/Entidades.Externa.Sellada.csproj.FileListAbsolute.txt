@@ -1,0 +1,5 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa.Sellada\bin\Debug\Entidades.Externa.Sellada.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa.Sellada\bin\Debug\Entidades.Externa.Sellada.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.pdb

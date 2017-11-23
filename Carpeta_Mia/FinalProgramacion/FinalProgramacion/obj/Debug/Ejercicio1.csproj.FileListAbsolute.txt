@@ -1,0 +1,3 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\FinalProgramacion\bin\Debug\FinalProgramacion.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\FinalProgramacion\obj\Debug\FinalProgramacion.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\FinalProgramacion\obj\Debug\FinalProgramacion.pdb

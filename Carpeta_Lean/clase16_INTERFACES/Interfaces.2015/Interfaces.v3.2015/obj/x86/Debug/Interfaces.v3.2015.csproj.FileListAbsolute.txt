@@ -1,0 +1,4 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Interfaces.2015\Interfaces.v3.2015\bin\Debug\Interfaces.v3.2015.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Interfaces.2015\Interfaces.v3.2015\bin\Debug\Interfaces.v3.2015.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Interfaces.2015\Interfaces.v3.2015\obj\x86\Debug\Interfaces.v3.2015.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\Interfaces.2015\Interfaces.v3.2015\obj\x86\Debug\Interfaces.v3.2015.pdb

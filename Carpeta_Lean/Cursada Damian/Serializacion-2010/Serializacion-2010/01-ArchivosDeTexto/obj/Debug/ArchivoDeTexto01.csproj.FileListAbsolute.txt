@@ -1,0 +1,9 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-ArchivosDeTexto\bin\Debug\SerializacionBinaria.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-ArchivosDeTexto\bin\Debug\SerializacionBinaria.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 11-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Serializacion-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Serializacion-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.pdb
+C:\Users\alumno.LAB5PC03\Desktop\Clases\Vogel.Damian\Serializacion-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.exe
+C:\Users\alumno.LAB5PC03\Desktop\Clases\Vogel.Damian\Serializacion-2010\Serializacion-2010\01-ArchivosDeTexto\obj\Debug\SerializacionBinaria.pdb

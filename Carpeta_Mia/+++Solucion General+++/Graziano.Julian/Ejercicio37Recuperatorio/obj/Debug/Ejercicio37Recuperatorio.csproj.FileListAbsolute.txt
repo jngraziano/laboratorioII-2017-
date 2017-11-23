@@ -1,0 +1,10 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\obj\Debug\Ejercicio37Recuperatorio.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\obj\Debug\Ejercicio37Recuperatorio.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\obj\Debug\Ejercicio37Recuperatorio.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\obj\Debug\Ejercicio37Recuperatorio.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio37Recuperatorio\bin\Debug\Ejercicio37Recuperatorio.pdb

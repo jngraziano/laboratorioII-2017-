@@ -1,0 +1,3 @@
+Este es el Encabezado para el archivo.
+-----------------------------
+LA FECHA ES: 06/06/2017 9:55:09

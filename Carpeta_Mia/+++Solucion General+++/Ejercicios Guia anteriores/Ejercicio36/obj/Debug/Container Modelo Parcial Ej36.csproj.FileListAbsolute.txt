@@ -1,0 +1,8 @@
+C:\PROGRAMACION 2\Ale.Javier\Container Modelo Parcial Ej36\bin\Debug\Container Modelo Parcial Ej36.exe.config
+C:\PROGRAMACION 2\Ale.Javier\Container Modelo Parcial Ej36\bin\Debug\Container Modelo Parcial Ej36.exe
+C:\PROGRAMACION 2\Ale.Javier\Container Modelo Parcial Ej36\bin\Debug\Container Modelo Parcial Ej36.pdb
+C:\PROGRAMACION 2\Ale.Javier\Container Modelo Parcial Ej36\obj\Debug\Container Modelo Parcial Ej36.exe
+C:\PROGRAMACION 2\Ale.Javier\Container Modelo Parcial Ej36\obj\Debug\Container Modelo Parcial Ej36.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Programacion 2\Container Modelo Parcial Ej36\bin\Debug\Container Modelo Parcial Ej36.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Programacion 2\Container Modelo Parcial Ej36\obj\Debug\Container Modelo Parcial Ej36.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Programacion 2\Container Modelo Parcial Ej36\obj\Debug\Container Modelo Parcial Ej36.pdb

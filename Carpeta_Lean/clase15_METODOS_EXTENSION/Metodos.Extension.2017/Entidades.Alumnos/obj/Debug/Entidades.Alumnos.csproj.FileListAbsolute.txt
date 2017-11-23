@@ -1,0 +1,10 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Alumnos\bin\Debug\Entidades.Alumnos.pdb
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.dll
+C:\Users\alumno\Desktop\Metodos.Extension.2016\Entidades.Alumnos\obj\Debug\Entidades.Alumnos.pdb

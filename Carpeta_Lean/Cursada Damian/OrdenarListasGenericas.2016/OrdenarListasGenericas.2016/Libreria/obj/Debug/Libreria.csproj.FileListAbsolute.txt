@@ -1,0 +1,4 @@
+D:\CSharp\2016\OrdenarListasGenericas.2016\Libreria\bin\Debug\Libreria.dll
+D:\CSharp\2016\OrdenarListasGenericas.2016\Libreria\bin\Debug\Libreria.pdb
+D:\CSharp\2016\OrdenarListasGenericas.2016\Libreria\obj\Debug\Libreria.dll
+D:\CSharp\2016\OrdenarListasGenericas.2016\Libreria\obj\Debug\Libreria.pdb

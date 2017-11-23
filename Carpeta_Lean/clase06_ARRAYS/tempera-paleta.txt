@@ -1,0 +1,57 @@
+tempera{
+
+(-)_color:ConsoleColor
+(-)_marca:string
+(-)_cantidad:int
+
+//constructor 3 parametros
+
+(-)Mostrar():string//instancia
+
+(+)Mostrar(Tempera):string//clase
+
+//sobrecargas
+
+== (tempera, tempera) //marca y color
+
+implicit (tempera) : int // cantidad
+
+}
+
++ (Tempera, double) : tempera
+
+paleta{
+
+(-)_colores : tempera[]
+(-)_cantidadMaximaColores : int
+
+//constructor
+(-)()//inicializa en 5
+(-)(int)//cantidad colores
+
+
+implicit (int) : paleta
+
+
+(-)Mostrar():string
+
+explicit (Paleta):string
+
+==(paleta, tempera):paleta
+
+
++(paleta, tempera):paleta
+
+-(paleta, tempera):paleta
+
++(paleta, paleta):paleta
+
+
+
+}
+
+
+Version colecciones
+
+1)Con List<Tempera>
+2)modificar tempera, sacando cantidad y la coleccion en paleta sera un Dictionary<Tempera, double>

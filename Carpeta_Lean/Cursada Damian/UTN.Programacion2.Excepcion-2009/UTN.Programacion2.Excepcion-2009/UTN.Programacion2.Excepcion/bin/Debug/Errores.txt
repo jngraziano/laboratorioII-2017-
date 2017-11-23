@@ -1,0 +1,15 @@
+Could not find file 'D:\Maxi--Octavio\C#\UTN.Programacion2.Excepcion\UTN.Programacion2.Excepcion\bin\Debug\sgsgsg'.lA FECHA ES: 12/06/2008 21:30:50
+Che no encontre el archivo archivo lA FECHA ES: 12/06/2008 21:34:41
+Che no encontre el archivo archivo ,---Modulo Funciones  lA FECHA ES: 12/06/2008 21:51:20
+Input string was not in a correct format.lA FECHA ES: 12/06/2008 21:51:35
+Attempted to divide by zero.lA FECHA ES: 29/10/2008 8:57:01
+Input string was not in a correct format.lA FECHA ES: 29/10/2008 9:42:40
+Che no encontre el archivo archivo ,---Modulo Funciones  lA FECHA ES: 29/10/2008 9:46:40
+Input string was not in a correct format.lA FECHA ES: 26/05/2009 9:40:18
+Attempted to divide by zero.lA FECHA ES: 26/05/2009 9:42:23
+Che no encontre el archivo archivo ,---Modulo Funciones  lA FECHA ES: 26/05/2009 9:44:54
+Empty path name is not legal.lA FECHA ES: 26/05/2009 9:54:27
+Value was either too large or too small for an Int32.lA FECHA ES: 26/05/2009 9:55:10
+Input string was not in a correct format.lA FECHA ES: 26/05/2009 9:56:58
+Object reference not set to an instance of an object.lA FECHA ES: 26/05/2009 9:57:19
+Attempted to divide by zero.lA FECHA ES: 26/05/2009 10:05:34

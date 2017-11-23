@@ -1,0 +1,6 @@
+D:\LNP\Pollola.Leandro\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\LNP\Pollola.Leandro\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\LNP\Pollola.Leandro\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\LNP\Pollola.Leandro\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+D:\LNP\Pollola.Leandro\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\LNP\Pollola.Leandro\Ejercicio17\obj\Debug\Ejercicio17.pdb

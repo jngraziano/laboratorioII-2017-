@@ -1,0 +1,12 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\FinalLaboratorio2\Ejercicio5\obj\Debug\Ejercicio5.csprojResolveAssemblyReference.cache

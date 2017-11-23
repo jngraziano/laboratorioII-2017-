@@ -1,0 +1,10 @@
+D:\VisualStudio\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Archivos2017\EntidadesArchivos\bin\Debug\EntidadesArchivos.dll
+D:\VisualStudio\Archivos2017\EntidadesArchivos\bin\Debug\EntidadesArchivos.pdb
+D:\VisualStudio\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.dll
+D:\VisualStudio\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase17\Archivos2017\EntidadesArchivos\bin\Debug\EntidadesArchivos.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase17\Archivos2017\EntidadesArchivos\bin\Debug\EntidadesArchivos.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase17\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase17\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.dll
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase17\Archivos2017\EntidadesArchivos\obj\Debug\EntidadesArchivos.pdb

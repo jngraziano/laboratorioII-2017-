@@ -1,0 +1,11 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\ArraysCSharp-2010\ArraysCSharp-2010\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\ArraysCSharp-2010\ArraysCSharp-2010\bin\Debug\ArraysCSharp-2010.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\ArraysCSharp-2010\ArraysCSharp-2010\bin\Debug\ArraysCSharp-2010.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\ArraysCSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\ArraysCSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Programacion II\C#-2010\Clase 05-2010\Arrays-Cadenas-Colecciones-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.pdb
+E:\Programacion II 2016\Clases\Clase 7\Arrays-Cadenas-CSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.exe
+E:\Programacion II 2016\Clases\Clase 7\Arrays-Cadenas-CSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.pdb
+G:\Facultad\Programacion II (C#) 2016\Clases\Clase 7\Arrays-Cadenas-CSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.exe
+G:\Facultad\Programacion II (C#) 2016\Clases\Clase 7\Arrays-Cadenas-CSharp-2010\ArraysCSharp-2010\obj\Debug\ArraysCSharp-2010.pdb

@@ -1,0 +1,12 @@
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.exe.config
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.exe
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.pdb
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.exe
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\bin\Debug\EjercicioClase4 operadoresSobreCargados.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\EjercicioClase4 operadoresSobreCargados\obj\Debug\EjercicioClase4 operadoresSobreCargados.csprojResolveAssemblyReference.cache

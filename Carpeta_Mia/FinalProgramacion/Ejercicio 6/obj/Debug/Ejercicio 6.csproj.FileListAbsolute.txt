@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+F:\Facultad\Programacion II (C#) 2016\FinalProgramacion\Ejercicio 6\obj\Debug\Ejercicio 6.pdb

@@ -1,0 +1,8 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\bin\Debug\Ejercicio41practica.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\bin\Debug\Ejercicio41practica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\bin\Debug\Ejercicio41practica.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\obj\Debug\Ejercicio41practica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\obj\Debug\Ejercicio41practica.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\bin\Debug\Ejercicio41practica.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\obj\Debug\Ejercicio41practica.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio41practica\obj\Debug\Ejercicio41practica.pdb

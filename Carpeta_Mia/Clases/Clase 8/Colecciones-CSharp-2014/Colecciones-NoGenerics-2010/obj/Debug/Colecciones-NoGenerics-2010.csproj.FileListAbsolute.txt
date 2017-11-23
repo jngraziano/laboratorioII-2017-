@@ -1,0 +1,10 @@
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Laboratorio II\C#-Lab-2010\Clase 05-2010\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\Colecciones-CSharp-2010.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Laboratorio II\C#-Lab-2010\Clase 05-2010\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\Colecciones-CSharp-2010.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Laboratorio II\C#-Lab-2010\Clase 05-2010\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\bin\Debug\Colecciones-CSharp-2010.exe
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Laboratorio II\C#-Lab-2010\Clase 05-2010\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\bin\Debug\Colecciones-CSharp-2010.pdb
+C:\Documents and Settings\Usuario\Desktop\@@C#@@\Planificacion Laboratorio II\C#-Lab-2010\Clase 05-2010\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\profesor\Escritorio\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\bin\Debug\Colecciones-CSharp-2010.exe
+C:\Documents and Settings\profesor\Escritorio\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\bin\Debug\Colecciones-CSharp-2010.pdb
+C:\Documents and Settings\profesor\Escritorio\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\profesor\Escritorio\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\Colecciones-CSharp-2010.exe
+C:\Documents and Settings\profesor\Escritorio\Colecciones-CSharp-2010\Colecciones-NoGenerics-2010\obj\Debug\Colecciones-CSharp-2010.pdb

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AhorcadoTP.exe" version="1.0.0.8" publicKeyToken="61dfb467d92b81aa" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="1462338905_Hangman-Game-grey.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AhorcadoTP" version="1.0.0.8" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AhorcadoTP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AhorcadoGUI.dll" size="9216">
+      <assemblyIdentity name="AhorcadoGUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZwQoMf1BB4Z7pYYtV6WdDel9dac50h2OJHtVpGEtPWY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AhorcadoTP.exe" size="75776">
+      <assemblyIdentity name="AhorcadoTP" version="1.0.0.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8qV2CcChEW5LCt2ybtV7IbWYF7ACPBMUgUlN8WnWWTU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibreriaAhorcado.dll" size="6144">
+      <assemblyIdentity name="LibreriaAhorcado" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UuYwXQJ1jjBZOE8DGJRtbE2dOrkuKiXamOc4T/yp3po=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1462338905_Hangman-Game-grey.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sr9JRLsPYhCKV5FLXJw1p/5O1I4rEB8KPBhpO9NlJXA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="AhorcadoTP.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LABS\profesor" issuerKeyHash="999af02fe90475030186592f950a223275ba81da" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Qn0iMqW07e41JpnNFtkpcfUiheJmSFXBaLnWpxEIgos=</DigestValue></Reference></SignedInfo><SignatureValue>m2T/4gU9ZggURzj5Wt2TzBW3flAjwra6y0s+0eJQX+kJT7BafZrvmSlONfXdIWKPb6+BtmLjcUP9iw0WqIRwQe1DuVVCwOmqlj0DiLljFWgmOpr1cpX4m589dVRoJDKMbCSorB6gIxOrJgIwc891XdsmQ+EVdq38FC47IVQ5iTI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7QKJJA4MZInOqNv9m4t4cbN4myXts7fPeRsfZADa13P8gwJrexvUDcdxrdRPr3r+5CSgs8H6OyiTIRC58+WbK+cN5CHii3gVB2Q54AZ9r9knLP6el9b7t5cjAUp9Hih/AZ1fY+0JFp6zuEz6MvCBGC3DVGyXh45Q0Ub9+xsKbHc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8b820811a7d6b968c1554866e28522f57129d916cd992635eeedb4a532227d42" Description="" Url=""><as:assemblyIdentity name="AhorcadoTP.exe" version="1.0.0.8" publicKeyToken="61dfb467d92b81aa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LABS\profesor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Xe4u0yKfQZ7moYw1Ux2mEe1GC73AP2jw2IDfWMY3Ork=</DigestValue></Reference></SignedInfo><SignatureValue>RuWzovQqu0UaJHiwASI96dzPueh7R4H2IuGUA4Xyeis64wctG0h1CHHIg3iWDiGV/knHrej0u4KhVCoB+XKdCuA3SGkwfGUG89a2AG0i2BW6hihN3HHZxYHDFz+1wR678q8HYAoicCqefe788cYhjgZg5x12OpDCqhSfMHsdgP8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7QKJJA4MZInOqNv9m4t4cbN4myXts7fPeRsfZADa13P8gwJrexvUDcdxrdRPr3r+5CSgs8H6OyiTIRC58+WbK+cN5CHii3gVB2Q54AZ9r9knLP6el9b7t5cjAUp9Hih/AZ1fY+0JFp6zuEz6MvCBGC3DVGyXh45Q0Ub9+xsKbHc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQPuHQTi8stJ5IV6esMMgIGTANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoATABBAEIAUwBcAHAAcgBvAGYAZQBzAG8AcjAeFw0xNjA1MDMyMzIwNTRaFw0xNzA1MDQwNTIwNTRaMCUxIzAhBgNVBAMeGgBMAEEAQgBTAFwAcAByAG8AZgBlAHMAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtAokkDgxkic6o2/2bi3hxs3ibJe2zt895Gx9kANrXc/yDAmt7G9QNx3Gt1E+vev7kJKCzwfo7KJMhELnz5Zsr5w3kIeKLeBUHZDngBn2v2Scs/p6X1vu3lyMBSn0eKH8BnV9j7QkWnrO4TPoy8IEYLcNUbJeHjlDRRv37GwpsdwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAE5BRkn0GhcrKO2mbdaTYMlsGjV02ab96z8lzlMztI3SNSN7eLHsp/FZxuM1BjNjA/9sCwaIlRYELGioWyXqIdtG9FtsBvPH/WGVouw4Va68YiAmerRCMok9D2UHB90k5IekthipxfEERXQOvzHbmlJwqkxyU6F7JZyQlXpkif8q</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

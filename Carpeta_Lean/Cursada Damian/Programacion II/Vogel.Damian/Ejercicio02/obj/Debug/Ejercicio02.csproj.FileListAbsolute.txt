@@ -1,0 +1,20 @@
+D:\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.pdb
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+Y:\Vogel Damian\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Vogel.Damian\Programacion II\Vogel.Damian\Ejercicio02\obj\Debug\Ejercicio02.pdb

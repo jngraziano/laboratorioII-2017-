@@ -1,0 +1,5 @@
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Leandro.Taligent\Desktop\TP_PROG2\FinalProgramacion\Ejercicio2\obj\Debug\Ejercicio2.pdb

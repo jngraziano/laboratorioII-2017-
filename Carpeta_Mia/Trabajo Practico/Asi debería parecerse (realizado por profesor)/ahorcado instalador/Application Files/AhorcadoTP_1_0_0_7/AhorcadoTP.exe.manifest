@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AhorcadoTP.exe" version="1.0.0.7" publicKeyToken="61dfb467d92b81aa" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AhorcadoTP" version="1.0.0.8" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AhorcadoTP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AhorcadoGUI.dll" size="9216">
+      <assemblyIdentity name="AhorcadoGUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ZwQoMf1BB4Z7pYYtV6WdDel9dac50h2OJHtVpGEtPWY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AhorcadoTP.exe" size="7680">
+      <assemblyIdentity name="AhorcadoTP" version="1.0.0.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aS0WHkbEa3UUng/UtG/DLbIo0hkvkd5YnF+x8hYUvOQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibreriaAhorcado.dll" size="6144">
+      <assemblyIdentity name="LibreriaAhorcado" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UuYwXQJ1jjBZOE8DGJRtbE2dOrkuKiXamOc4T/yp3po=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AhorcadoTP.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LABS\profesor" issuerKeyHash="999af02fe90475030186592f950a223275ba81da" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>r/wzpONDpE4lpJvjiWFpoLHV/djFirNTXnka/Qw0AAk=</DigestValue></Reference></SignedInfo><SignatureValue>AnMzLotFjQEZKauVLVgOUJXeMe2TN3yeTgmEsYOnk6J6DbnHNEhCgfQWD91Xvhds+2u4kyn/kuoAiMb67cNP6uFgzjCzrZ4B2tVHCOpWKO1ec3ko8BfktT5VQgSsLk4I8PzN1sqIpwCSWOSZ+aTPV2uy9r/y7tRNQaSVZDDjxWA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7QKJJA4MZInOqNv9m4t4cbN4myXts7fPeRsfZADa13P8gwJrexvUDcdxrdRPr3r+5CSgs8H6OyiTIRC58+WbK+cN5CHii3gVB2Q54AZ9r9knLP6el9b7t5cjAUp9Hih/AZ1fY+0JFp6zuEz6MvCBGC3DVGyXh45Q0Ub9+xsKbHc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0900340cfd1a795e53b38ac5d8fdd5b1a0696189e39ba4254ea443e3a433fcaf" Description="" Url=""><as:assemblyIdentity name="AhorcadoTP.exe" version="1.0.0.7" publicKeyToken="61dfb467d92b81aa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LABS\profesor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>36acCFiR02qTsQXiP5YSXT3NXaLyaGarS+NL6+rS3hI=</DigestValue></Reference></SignedInfo><SignatureValue>00iYxFuRhJWQr3iY1UXb27b/ydrb324jDCatBBDZG5NY4BNO65cy0CTMEw4osmuUHCcx3Q9Pk5pNI4vaFC6rSGPYKR9a2fDgixXP9Ccjy5OCuyzspoPCGPNlgSOcsn0KKwckyekk/zEklbHWpFlbJ11ooa2ilJ1Z/sIchdgmQbQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7QKJJA4MZInOqNv9m4t4cbN4myXts7fPeRsfZADa13P8gwJrexvUDcdxrdRPr3r+5CSgs8H6OyiTIRC58+WbK+cN5CHii3gVB2Q54AZ9r9knLP6el9b7t5cjAUp9Hih/AZ1fY+0JFp6zuEz6MvCBGC3DVGyXh45Q0Ub9+xsKbHc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQPuHQTi8stJ5IV6esMMgIGTANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoATABBAEIAUwBcAHAAcgBvAGYAZQBzAG8AcjAeFw0xNjA1MDMyMzIwNTRaFw0xNzA1MDQwNTIwNTRaMCUxIzAhBgNVBAMeGgBMAEEAQgBTAFwAcAByAG8AZgBlAHMAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtAokkDgxkic6o2/2bi3hxs3ibJe2zt895Gx9kANrXc/yDAmt7G9QNx3Gt1E+vev7kJKCzwfo7KJMhELnz5Zsr5w3kIeKLeBUHZDngBn2v2Scs/p6X1vu3lyMBSn0eKH8BnV9j7QkWnrO4TPoy8IEYLcNUbJeHjlDRRv37GwpsdwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAE5BRkn0GhcrKO2mbdaTYMlsGjV02ab96z8lzlMztI3SNSN7eLHsp/FZxuM1BjNjA/9sCwaIlRYELGioWyXqIdtG9FtsBvPH/WGVouw4Va68YiAmerRCMok9D2UHB90k5IekthipxfEERXQOvzHbmlJwqkxyU6F7JZyQlXpkif8q</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

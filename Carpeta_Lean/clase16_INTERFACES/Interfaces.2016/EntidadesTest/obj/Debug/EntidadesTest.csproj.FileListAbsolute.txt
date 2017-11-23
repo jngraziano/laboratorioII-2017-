@@ -1,0 +1,2 @@
+D:\CSharp\2016\###Segundo Cuatri\Interfaces.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase16\Interfaces.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config

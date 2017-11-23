@@ -1,0 +1,14 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.pdb
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.exe.config
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.exe
+D:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.pdb
+C:\Users\rusalka\Google Drive\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\bin\Debug\Ejercicio56.exe.config
+C:\Users\rusalka\Google Drive\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.exe
+C:\Users\rusalka\Google Drive\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio56\obj\Debug\Ejercicio56.pdb

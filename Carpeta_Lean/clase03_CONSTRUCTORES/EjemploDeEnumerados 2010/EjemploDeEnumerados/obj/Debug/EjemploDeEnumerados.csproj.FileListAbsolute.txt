@@ -1,0 +1,7 @@
+C:\Documents and Settings\profesor\Mis documentos\Visual Studio 2008\Projects\EjemploDeEnumerados\EjemploDeEnumerados\bin\Debug\EjemploDeEnumerados.exe
+C:\Documents and Settings\profesor\Mis documentos\Visual Studio 2008\Projects\EjemploDeEnumerados\EjemploDeEnumerados\bin\Debug\EjemploDeEnumerados.pdb
+C:\Documents and Settings\profesor\Mis documentos\Visual Studio 2008\Projects\EjemploDeEnumerados\EjemploDeEnumerados\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\profesor\Mis documentos\Visual Studio 2008\Projects\EjemploDeEnumerados\EjemploDeEnumerados\obj\Debug\EjemploDeEnumerados.exe
+C:\Documents and Settings\profesor\Mis documentos\Visual Studio 2008\Projects\EjemploDeEnumerados\EjemploDeEnumerados\obj\Debug\EjemploDeEnumerados.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\EjemploDeEnumerados 2010\EjemploDeEnumerados\obj\Debug\EjemploDeEnumerados.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\clase03\EjemploDeEnumerados 2010\EjemploDeEnumerados\obj\Debug\EjemploDeEnumerados.pdb

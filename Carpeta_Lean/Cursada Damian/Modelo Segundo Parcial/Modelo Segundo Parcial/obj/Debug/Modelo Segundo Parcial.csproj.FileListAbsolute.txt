@@ -1,0 +1,6 @@
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\bin\Debug\Modelo Segundo Parcial.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\obj\Debug\Modelo Segundo Parcial.csprojResolveAssemblyReference.cache
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\bin\Debug\Modelo Segundo Parcial.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\bin\Debug\Modelo Segundo Parcial.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\obj\Debug\Modelo Segundo Parcial.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Modelo Segundo Parcial\Modelo Segundo Parcial\obj\Debug\Modelo Segundo Parcial.pdb

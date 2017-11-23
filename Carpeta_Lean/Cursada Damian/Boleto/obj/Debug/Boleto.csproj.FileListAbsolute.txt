@@ -1,0 +1,15 @@
+D:\Vogel.Damian\Boleto\bin\Debug\Boleto.exe.config
+D:\Vogel.Damian\Boleto\bin\Debug\Boleto.exe
+D:\Vogel.Damian\Boleto\bin\Debug\Boleto.pdb
+D:\Vogel.Damian\Boleto\obj\Debug\Boleto.exe
+D:\Vogel.Damian\Boleto\obj\Debug\Boleto.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\bin\Debug\Boleto.exe.config
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\obj\Debug\Boleto.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\obj\Debug\Boleto.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\bin\Debug\Boleto.exe
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\bin\Debug\Boleto.pdb
+D:\UTN\Segundo Cuatrimestre\Programacion II\Vogel.Damian\Boleto\obj\Debug\Boleto.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Vogel.Damian\Boleto\bin\Debug\Boleto.exe.config
+C:\Personal\Damian\Vogel.Damian\Boleto\obj\Debug\Boleto.exe
+C:\Personal\Damian\Vogel.Damian\Boleto\obj\Debug\Boleto.pdb
+D:\Vogel.Damian\Boleto\obj\Debug\Boleto.csprojResolveAssemblyReference.cache

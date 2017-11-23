@@ -1,0 +1,6 @@
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\bin\Debug\FinalLaboCUR_Ejercicio1_LIST.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\bin\Debug\FinalLaboCUR_Ejercicio1_LIST.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\bin\Debug\FinalLaboCUR_Ejercicio1_LIST.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\obj\Debug\FinalLaboCUR_Ejercicio1_LIST.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\obj\Debug\FinalLaboCUR_Ejercicio1_LIST.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio1_LIST\obj\Debug\FinalLaboCUR_Ejercicio1_LIST.pdb

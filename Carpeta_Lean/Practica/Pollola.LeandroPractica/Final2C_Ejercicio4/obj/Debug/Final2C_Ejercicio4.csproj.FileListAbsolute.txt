@@ -1,0 +1,6 @@
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\bin\Debug\Final2C_Ejercicio4.exe.config
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\obj\Debug\Final2C_Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\bin\Debug\Final2C_Ejercicio4.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\bin\Debug\Final2C_Ejercicio4.pdb
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\obj\Debug\Final2C_Ejercicio4.exe
+C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\Final2C_Ejercicio4\obj\Debug\Final2C_Ejercicio4.pdb

@@ -1,0 +1,10 @@
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\bin\Debug\Ejercicio35.exe.config
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\bin\Debug\Ejercicio35.exe
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\bin\Debug\Ejercicio35.pdb
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.exe
+G:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\Ejercicio35\obj\Debug\Ejercicio35.csprojResolveAssemblyReference.cache

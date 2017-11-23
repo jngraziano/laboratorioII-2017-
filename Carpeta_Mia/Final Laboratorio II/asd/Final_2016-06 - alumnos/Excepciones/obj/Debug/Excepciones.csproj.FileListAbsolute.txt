@@ -1,0 +1,4 @@
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Excepciones\bin\Debug\Excepciones.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Excepciones\bin\Debug\Excepciones.pdb
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Excepciones\obj\Debug\Excepciones.dll
+E:\Facultad\Programacion II (C#) 2016\Final Laboratorio II\asd\Final_2016-06 - alumnos\Excepciones\obj\Debug\Excepciones.pdb

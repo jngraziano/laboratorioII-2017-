@@ -1,0 +1,6 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\bin\Debug\Ejercicio8.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\bin\Debug\Ejercicio8.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\obj\Debug\Ejercicio8.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\obj\Debug\Ejercicio8.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\RecuperatorioProgramacion\RecuperatorioProgramacion\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache

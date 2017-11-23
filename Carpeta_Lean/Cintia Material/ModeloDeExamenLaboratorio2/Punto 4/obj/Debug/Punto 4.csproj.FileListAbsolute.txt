@@ -1,0 +1,6 @@
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\bin\Debug\Punto 4.exe.config
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\bin\Debug\Punto 4.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\bin\Debug\Punto 4.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\obj\Debug\Punto 4.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\obj\Debug\Punto 4.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto 4\obj\Debug\Punto 4.csprojResolveAssemblyReference.cache

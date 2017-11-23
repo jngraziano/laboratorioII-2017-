@@ -1,0 +1,10 @@
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Test.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Test.exe
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Test.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Entidades.Externa.dll
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Entidades.Externa.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\obj\Debug\Test.exe
+D:\CSharp\2016\###Segundo Cuatri\Metodos.Extension.2016\Test\obj\Debug\Test.pdb

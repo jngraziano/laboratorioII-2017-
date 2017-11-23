@@ -1,0 +1,5 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerenciaPractica\bin\Debug\CentralitaHerenciaPractica.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerenciaPractica\bin\Debug\CentralitaHerenciaPractica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerenciaPractica\bin\Debug\CentralitaHerenciaPractica.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerenciaPractica\obj\Debug\CentralitaHerenciaPractica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerenciaPractica\obj\Debug\CentralitaHerenciaPractica.pdb

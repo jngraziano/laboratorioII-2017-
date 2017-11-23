@@ -1,0 +1,6 @@
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\bin\Debug\Punto_5.exe.config
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\bin\Debug\Punto_5.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\bin\Debug\Punto_5.pdb
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\obj\Debug\Punto_5_y_6.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\obj\Debug\Punto_5.exe
+C:\Users\Hernan\Desktop\Prg2\Programacion 2 y Laboratorio 2\ModeloDeExamenLaboratorio2\Punto_5\obj\Debug\Punto_5.pdb

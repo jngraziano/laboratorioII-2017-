@@ -1,0 +1,9 @@
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.pdb
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+D:\Ejercicios Csharp\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\PROGRAMACION 2\Ale.Javier\Ejercicio01\obj\Debug\Ejercicio01.pdb

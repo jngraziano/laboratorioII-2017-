@@ -1,0 +1,11 @@
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb

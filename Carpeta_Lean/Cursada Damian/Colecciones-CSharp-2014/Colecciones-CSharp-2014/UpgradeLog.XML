@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Colecciones-CSharp-2010">
+</Property><Property Name="Solution File" Value="C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Colecciones-CSharp-2010.sln">
+</Property><Property Name="User Options File" Value="C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Colecciones-CSharp-2010.suo">
+</Property><Property Name="Date" Value="martes, 29 de abril de 2014">
+</Property><Property Name="Time" Value="9:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Colecciones-CSharp-2010.sln" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-CSharp-2010.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Colecciones-CSharp-2010.suo" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-CSharp-2010.suo">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\ColeccionesGenerics-2010.csproj" Description="Project file successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\ColeccionesGenerics-2010\ColeccionesGenerics-2010.csproj">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\Persona.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\ColeccionesGenerics-2010\Persona.cs">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\Program.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\ColeccionesGenerics-2010\Program.cs">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\ColeccionesGenerics-2010\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\ColeccionesGenerics-2010.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\ColeccionesGenerics-2010.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\GenericsVsNoGenerics.csproj" Description="Project file successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\GenericsVsNoGenerics\GenericsVsNoGenerics.csproj">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\Persona.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\GenericsVsNoGenerics\Persona.cs">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\Program.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\GenericsVsNoGenerics\Program.cs">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\GenericsVsNoGenerics\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\GenericsVsNoGenerics.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\GenericsVsNoGenerics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj" Description="Project file successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj.user" Description="Project user file successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj.user">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Program.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-NoGenerics-2010\Program.cs">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\profesor\Desktop\Colecciones-CSharp-2010\Backup\Colecciones-NoGenerics-2010\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Colecciones-CSharp-2010.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Colecciones-CSharp-2010.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ColeccionesGenerics-2010" Source="ColeccionesGenerics-2010\ColeccionesGenerics-2010.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GenericsVsNoGenerics" Source="GenericsVsNoGenerics\GenericsVsNoGenerics.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Colecciones-NoGenerics-2010" Source="Colecciones-NoGenerics-2010\Colecciones-NoGenerics-2010.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

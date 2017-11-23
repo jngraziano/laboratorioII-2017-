@@ -1,0 +1,10 @@
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\obj\Debug\CentralitaHerenciaPractica.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\obj\Debug\CentralitaHerenciaPractica.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\obj\Debug\CentralitaHerenciaPractica.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\obj\Debug\CentralitaHerenciaPractica.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Graziano.Julian\CentralitaPolimorfismo\bin\Debug\CentralitaHerenciaPractica.pdb

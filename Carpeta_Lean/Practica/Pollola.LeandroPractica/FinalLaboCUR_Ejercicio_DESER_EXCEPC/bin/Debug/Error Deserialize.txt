@@ -1,0 +1,1 @@
+Error al deserializar el archivo C:\Users\Leandro.Taligent\Documents\Facultad\Labo2\Practica\Pollola.LeandroPractica\FinalLaboCUR_Ejercicio_DESER_EXCEPC\bin\Debug\Error Deserialize.txtFecha 1/1/0001 12:00:00 a. m.

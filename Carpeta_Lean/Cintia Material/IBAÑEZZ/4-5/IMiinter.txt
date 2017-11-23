@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_4
+{
+    interface IMiinter
+    {
+        Producto MiMetodo(int num);
+
+        Producto Propiedad
+        {
+            get;
+        }
+
+
+    }
+}

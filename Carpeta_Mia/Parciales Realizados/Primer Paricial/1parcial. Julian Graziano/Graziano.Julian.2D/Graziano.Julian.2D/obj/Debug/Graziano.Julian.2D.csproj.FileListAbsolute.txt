@@ -1,0 +1,4 @@
+E:\Primer Parcial Julian Graziano\Graziano.Julian.2D\Graziano.Julian.2D\bin\Debug\Graziano.Julian.2D.exe.config
+E:\Primer Parcial Julian Graziano\Graziano.Julian.2D\Graziano.Julian.2D\obj\Debug\Graziano.Julian.2D.csprojResolveAssemblyReference.cache
+E:\Facultad\Programacion II (C#) 2016\Primer Paricial\1parcial. Julian Graziano\Graziano.Julian.2D\Graziano.Julian.2D\bin\Debug\Graziano.Julian.2D.exe.config
+E:\Facultad\Programacion II (C#) 2016\Primer Paricial\1parcial. Julian Graziano\Graziano.Julian.2D\Graziano.Julian.2D\obj\Debug\Graziano.Julian.2D.csprojResolveAssemblyReference.cache

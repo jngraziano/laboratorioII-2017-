@@ -1,0 +1,11 @@
+F:\Programacion II 2016\Ejercicios Guia\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+E:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+F:\Facultad\Programacion II (C#) 2016\+++Solucion General+++\Ejercicios Guia anteriores\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

@@ -1,0 +1,6 @@
+D:\Vogel.Damian\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\Vogel.Damian\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\Vogel.Damian\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\Vogel.Damian\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\Vogel.Damian\Ejercicio17\obj\Debug\Ejercicio17.pdb
+D:\Vogel.Damian\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
